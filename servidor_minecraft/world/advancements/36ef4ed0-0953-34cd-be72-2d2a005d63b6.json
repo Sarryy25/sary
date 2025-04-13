@@ -251,6 +251,7 @@
   "cobblemon:craft_base_balls": {
     "criteria": {
       "roseate_ball": "2025-04-13 21:21:32 +0000",
+      "premier_ball": "2025-04-13 22:12:57 +0000",
       "citrine_ball": "2025-04-13 21:21:41 +0000"
     },
     "done": false
@@ -294,6 +295,12 @@
   "minecraft:recipes/combat/iron_helmet": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 21:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-13 22:10:51 +0000"
     },
     "done": true
   },
@@ -444,6 +451,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-13 22:10:51 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/smoker": {
     "criteria": {
       "has_furnace": "2025-04-13 21:20:47 +0000"
@@ -465,6 +478,12 @@
   "minecraft:recipes/decorations/chest": {
     "criteria": {
       "has_lots_of_items": "2025-04-13 21:19:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/shiny_gear": {
+    "criteria": {
+      "diamond_chestplate": "2025-04-13 22:09:13 +0000"
     },
     "done": true
   },
@@ -565,6 +584,13 @@
     },
     "done": true
   },
+  "minecraft:adventure/kill_all_mobs": {
+    "criteria": {
+      "minecraft:spider": "2025-04-13 22:10:14 +0000",
+      "minecraft:zombie": "2025-04-13 22:05:05 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-04-13 21:15:56 +0000"
@@ -604,6 +630,12 @@
   "minecraft:recipes/building_blocks/spruce_wood": {
     "criteria": {
       "has_log": "2025-04-13 21:20:53 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-13 22:10:51 +0000"
     },
     "done": true
   },
@@ -1274,6 +1306,12 @@
     },
     "done": true
   },
+  "cobblemon:first_shiny_catch": {
+    "criteria": {
+      "catch": "2025-04-13 22:11:53 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/brewing/cauldron": {
     "criteria": {
       "has_water_bucket": "2025-04-13 21:45:44 +0000"
@@ -1304,10 +1342,17 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-13 22:10:51 +0000"
+    },
+    "done": true
+  },
   "cobblemon:craft_all_balls": {
     "criteria": {
       "citrine_ball": "2025-04-13 21:21:41 +0000",
-      "roseate_ball": "2025-04-13 21:21:32 +0000"
+      "roseate_ball": "2025-04-13 21:21:32 +0000",
+      "premier_ball": "2025-04-13 22:12:57 +0000"
     },
     "done": false
   },
@@ -1380,6 +1425,12 @@
   "minecraft:recipes/misc/iron_nugget_from_blasting": {
     "criteria": {
       "has_iron_pickaxe": "2025-04-13 21:30:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/kill_a_mob": {
+    "criteria": {
+      "minecraft:zombie": "2025-04-13 22:05:05 +0000"
     },
     "done": true
   },
@@ -1522,6 +1573,12 @@
       "has_green_apricorn": "2025-04-13 21:40:32 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-13 22:10:51 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/tools/diamond_axe": {
     "criteria": {

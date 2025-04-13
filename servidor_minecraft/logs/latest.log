@@ -1141,3 +1141,45 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Apr2025 22:03:20.778] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> osea no el etnendi
 [13Apr2025 22:03:21.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> entendi
 [13Apr2025 22:03:42.748] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sarydark_23: Applied effect Regeneration to Pipexdd7]
+[13Apr2025 22:03:54.859] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> ugual sirve
+[13Apr2025 22:04:19.869] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sarydark_23: Applied effect Haste to Pipexdd7]
+[13Apr2025 22:04:23.499] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=494, y=0, z=-962} BlockPos{x=497, y=-3, z=-962}
+[13Apr2025 22:04:23.804] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=494, y=0, z=-962} BlockPos{x=497, y=-3, z=-962}
+[13Apr2025 22:04:26.229] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=499, y=-4, z=-962} BlockPos{x=503, y=-5, z=-962}
+[13Apr2025 22:04:26.300] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=499, y=-4, z=-962} BlockPos{x=503, y=-5, z=-962}
+[13Apr2025 22:04:35.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=538, y=-8, z=-962} BlockPos{x=539, y=-9, z=-962}
+[13Apr2025 22:04:36.111] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=541, y=-12, z=-962} BlockPos{x=540, y=-12, z=-962}
+[13Apr2025 22:05:04.345] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=570, y=-29, z=-966} BlockPos{x=593, y=-51, z=-968}
+[13Apr2025 22:05:05.361] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pipexdd7 has made the advancement [Monster Hunter]
+[13Apr2025 22:05:29.408] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sarydark_23: Teleported Sarydark_23 to 382.500000, 70.500000, -627.500000]
+[13Apr2025 22:05:32.609] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan19807 has made the advancement [Doing my Part]
+[13Apr2025 22:06:01.962] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35501, l='ServerLevel[world]', x=398.38, y=71.00, z=-636.67] died, message: 'Villager was slain by Zombie'
+[13Apr2025 22:06:21.598] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35499, l='ServerLevel[world]', x=399.61, y=71.00, z=-637.67] died, message: 'Villager was slain by Zombie'
+[13Apr2025 22:06:52.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=380, y=74, z=-661} BlockPos{x=382, y=73, z=-659}
+[13Apr2025 22:06:57.700] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35500, l='ServerLevel[world]', x=408.43, y=71.00, z=-631.22] died, message: 'Villager was slain by Zombie'
+[13Apr2025 22:07:00.808] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=377, y=71, z=-662} BlockPos{x=378, y=70, z=-663}
+[13Apr2025 22:07:22.313] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35505, l='ServerLevel[world]', x=399.49, y=71.00, z=-634.49] died, message: 'Villager was slain by Zombie'
+[13Apr2025 22:09:13.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pipexdd7 has made the advancement [Cover Me with Diamonds]
+[13Apr2025 22:09:46.704] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> volvi
+[13Apr2025 22:09:47.906] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> un sleep
+[13Apr2025 22:09:50.469] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> esa d enoche
+[13Apr2025 22:10:10.804] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lawrencexf has made the advancement [Sweet Dreams]
+[13Apr2025 22:10:13.505] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> zzz
+[13Apr2025 22:10:15.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> zzz
+[13Apr2025 22:10:29.705] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> zzz
+[13Apr2025 22:10:48.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> hagame tp
+[13Apr2025 22:10:51.204] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> y le presto cobre
+[13Apr2025 22:11:09.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sarydark_23: Teleported Lawrencexf to Pipexdd7]
+[13Apr2025 22:11:22.006] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sarydark_23: Set own game mode to Creative Mode]
+[13Apr2025 22:11:31.017] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=382, y=75, z=-643} BlockPos{x=381, y=74, z=-643}
+[13Apr2025 22:11:31.058] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=382, y=75, z=-643} BlockPos{x=381, y=74, z=-643}
+[13Apr2025 22:11:31.108] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=382, y=75, z=-643} BlockPos{x=381, y=74, z=-643}
+[13Apr2025 22:11:43.552] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan19807 has made the advancement [Minty Fresh]
+[13Apr2025 22:11:53.401] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pipexdd7 has completed the challenge [Lucky Color]
+[13Apr2025 22:12:01.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> si lo tira a la lava
+[13Apr2025 22:12:43.322] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> yo por ahora reclame una casa aldeana
+[13Apr2025 22:12:46.952] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sarydark_23: Set own game mode to Survival Mode]
+[13Apr2025 22:12:55.068] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> hazme tp a ti
+[13Apr2025 22:13:02.107] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sarydark_23: Gave 300 [Coal] to Sarydark_23]
+[13Apr2025 22:13:12.110] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sarydark_23: Teleported Lawrencexf to Sarydark_23]
+[13Apr2025 22:13:22.201] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sarydark_23: Gave 300 [Coal] to Sarydark_23]
