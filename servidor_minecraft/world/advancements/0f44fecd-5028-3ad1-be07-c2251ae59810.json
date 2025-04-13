@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/lever": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:obtain_berry": {
     "criteria": {
       "check_inv": "2025-04-13 21:22:27 +0000"
@@ -39,6 +45,12 @@
   "minecraft:recipes/food/cooked_chicken_from_campfire_cooking": {
     "criteria": {
       "has_chicken": "2025-04-13 21:15:46 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_nugget_from_smelting": {
+    "criteria": {
+      "has_iron_sword": "2025-04-13 21:41:13 +0000"
     },
     "done": true
   },
@@ -67,6 +79,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/stone_sword": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/cobblestone_wall": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-04-13 21:18:02 +0000",
@@ -89,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_axe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/transportation/apricorn_boat": {
     "criteria": {
       "in_water": "2025-04-13 21:17:58 +0000"
@@ -104,6 +134,18 @@
   "minecraft:recipes/combat/bow": {
     "criteria": {
       "has_string": "2025-04-13 21:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/mine_stone": {
+    "criteria": {
+      "get_stone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/furnace": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 21:39:43 +0000"
     },
     "done": true
   },
@@ -176,9 +218,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/sleep_in_bed": {
     "criteria": {
       "slept_in_bed": "2025-04-13 21:32:23 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 21:39:43 +0000"
     },
     "done": true
   },
@@ -197,6 +251,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-04-13 21:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/stone": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 21:39:43 +0000"
     },
     "done": true
   },
@@ -285,6 +345,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/fast_ball": {
     "criteria": {
       "has_white_apricorn": "2025-04-13 21:16:15 +0000",
@@ -296,6 +362,12 @@
   "cobblemon:recipes/agriculture/mulch_base": {
     "criteria": {
       "has_berry": "2025-04-13 21:22:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_stairs": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-13 21:39:43 +0000"
     },
     "done": true
   },
@@ -317,6 +389,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/copper_ingot_from_blasting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-13 21:42:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/raw_copper_block": {
+    "criteria": {
+      "has_raw_copper": "2025-04-13 21:42:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/friend_ball": {
     "criteria": {
       "has_yellow_apricorn": "2025-04-13 21:17:20 +0000",
@@ -324,10 +408,22 @@
     },
     "done": false
   },
+  "minecraft:recipes/tools/stone_pickaxe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/great_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-04-13 21:18:02 +0000",
       "has_red_apricorn": "2025-04-13 21:17:41 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-13 21:39:43 +0000"
     },
     "done": true
   },
@@ -363,6 +459,18 @@
       "has_red_apricorn": "2025-04-13 21:17:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_slab": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
   },
   "megamons:grant_megamons_guide": {
     "criteria": {
@@ -421,12 +529,32 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/iron_nugget_from_blasting": {
+    "criteria": {
+      "has_iron_sword": "2025-04-13 21:41:13 +0000"
+    },
+    "done": true
+  },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:beach": "2025-04-13 21:35:55 +0000",
       "minecraft:river": "2025-04-13 21:24:03 +0000",
+      "minecraft:forest": "2025-04-13 21:37:09 +0000",
       "minecraft:plains": "2025-04-13 21:23:34 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/cobblestone_wall_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/cobblestone_stairs_from_cobblestone_stonecutting": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
   },
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
@@ -444,6 +572,24 @@
     },
     "done": false
   },
+  "minecraft:recipes/building_blocks/cobblestone_stairs": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/mossy_cobblestone_wall_from_mossy_cobblestone_stonecutting": {
+    "criteria": {
+      "has_mossy_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/tools/stone_hoe": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-04-13 21:18:02 +0000",
@@ -457,6 +603,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/stone_shovel": {
+    "criteria": {
+      "has_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/poke_ball": {
     "criteria": {
       "has_red_apricorn": "2025-04-13 21:17:41 +0000"
@@ -466,6 +618,12 @@
   "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
     "criteria": {
       "has_apricorn": "2025-04-13 21:16:27 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/copper_ingot_from_smelting_raw_copper": {
+    "criteria": {
+      "has_raw_copper": "2025-04-13 21:42:43 +0000"
     },
     "done": true
   },

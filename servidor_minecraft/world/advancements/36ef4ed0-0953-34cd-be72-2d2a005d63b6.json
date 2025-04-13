@@ -215,6 +215,12 @@
     },
     "done": false
   },
+  "cobblemon:recipes/balls/dusk_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-04-13 21:40:32 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/arrow": {
     "criteria": {
       "has_feather": "2025-04-13 21:19:57 +0000"
@@ -289,6 +295,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/green_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-13 21:40:32 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/birch_sign": {
     "criteria": {
       "has_planks": "2025-04-13 21:16:13 +0000"
@@ -310,6 +322,12 @@
   "minecraft:recipes/building_blocks/birch_wood": {
     "criteria": {
       "has_log": "2025-04-13 21:15:56 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:harvest_apricorn_seed": {
+    "criteria": {
+      "check_inv": "2025-04-13 21:40:03 +0000"
     },
     "done": true
   },
@@ -339,9 +357,10 @@
   },
   "cobblemon:recipes/balls/nest_ball": {
     "criteria": {
+      "has_green_apricorn": "2025-04-13 21:40:32 +0000",
       "has_yellow_apricorn": "2025-04-13 21:17:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/agriculture/yellow_apricorn_smelt_to_dye": {
     "criteria": {
@@ -381,10 +400,11 @@
   },
   "cobblemon:recipes/balls/safari_ball": {
     "criteria": {
+      "has_green_apricorn": "2025-04-13 21:40:32 +0000",
       "has_white_apricorn": "2025-04-13 21:16:40 +0000",
       "has_yellow_apricorn": "2025-04-13 21:17:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
@@ -527,6 +547,7 @@
   },
   "cobblemon:recipes/balls/friend_ball": {
     "criteria": {
+      "has_green_apricorn": "2025-04-13 21:40:32 +0000",
       "has_yellow_apricorn": "2025-04-13 21:17:41 +0000"
     },
     "done": false
@@ -592,6 +613,12 @@
     },
     "done": true
   },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2025-04-13 21:38:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-13 21:19:12 +0000"
@@ -610,6 +637,12 @@
       "has_blue_apricorn": "2025-04-13 21:26:29 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/park_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-04-13 21:40:32 +0000"
+    },
+    "done": false
   },
   "minecraft:recipes/redstone/birch_trapdoor": {
     "criteria": {
@@ -632,6 +665,12 @@
   "minecraft:recipes/redstone/spruce_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-13 21:21:11 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/verdant_ball": {
+    "criteria": {
+      "has_green_apricorn": "2025-04-13 21:40:32 +0000"
     },
     "done": true
   },
@@ -712,6 +751,7 @@
     "criteria": {
       "minecraft:beach": "2025-04-13 21:29:31 +0000",
       "minecraft:river": "2025-04-13 21:24:58 +0000",
+      "minecraft:forest": "2025-04-13 21:39:43 +0000",
       "minecraft:flower_forest": "2025-04-13 21:26:23 +0000",
       "minecraft:plains": "2025-04-13 21:24:38 +0000"
     },
@@ -781,7 +821,8 @@
   },
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
-      "has_blue_apricorn": "2025-04-13 21:26:29 +0000"
+      "has_blue_apricorn": "2025-04-13 21:26:29 +0000",
+      "has_green_apricorn": "2025-04-13 21:40:32 +0000"
     },
     "done": false
   },
