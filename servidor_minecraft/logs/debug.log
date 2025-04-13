@@ -3787,3 +3787,92 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Apr2025 22:54:07.785] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
 [13Apr2025 22:54:16.316] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> pipe abra el codespace que em voy
 [13Apr2025 22:54:33.355] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> github
+[13Apr2025 22:54:37.833] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:54:37.833] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:54:37.835] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:55:07.883] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:55:07.883] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:55:07.885] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:55:15.297] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> si
+[13Apr2025 22:55:21.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> tengalo abierto solo
+[13Apr2025 22:55:31.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> si el codespace
+[13Apr2025 22:55:37.933] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:55:37.933] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:55:37.935] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:56:07.983] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:56:07.983] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:56:07.985] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:56:32.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> q
+[13Apr2025 22:56:32.800] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Sarydark_23 lost connection: Disconnected
+[13Apr2025 22:56:32.800] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sarydark_23 left the game
+[13Apr2025 22:56:38.033] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:56:38.033] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:56:38.035] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:56:39.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> t dije q si
+[13Apr2025 22:56:41.363] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> ve a tomarla
+[13Apr2025 22:56:46.503] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> somos amiwis
+[13Apr2025 22:57:08.083] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:57:08.083] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:57:08.085] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:57:38.133] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:57:38.133] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:57:38.135] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:58:08.183] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:58:08.183] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:58:08.185] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:58:27.779] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 22:58:27.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 22:58:38.233] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:58:38.233] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:58:38.235] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:58:44.114] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> raticate
+[13Apr2025 22:59:08.283] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:59:08.283] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:59:08.285] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:59:38.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> maniana es lunes pipipi
+[13Apr2025 22:59:38.333] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:59:38.333] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:59:38.335] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:59:53.571] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> nada
+[13Apr2025 22:59:55.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> pero es lunes
+[13Apr2025 23:00:08.383] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 23:00:08.383] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 23:00:08.384] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 23:00:38.433] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 23:00:38.433] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 23:00:38.434] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 23:01:08.483] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 23:01:08.483] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 23:01:08.485] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 23:01:38.533] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 23:01:38.533] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 23:01:38.535] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 23:01:42.278] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> de q
+[13Apr2025 23:01:48.530] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> ahora mismo
+[13Apr2025 23:01:53.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> gracias x recordarmelo
+[13Apr2025 23:02:08.583] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 23:02:08.583] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 23:02:08.585] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 23:02:14.342] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> ven a ver si le queda energia
+[13Apr2025 23:02:24.131] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> otro pvp
+[13Apr2025 23:02:29.581] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> XD
+[13Apr2025 23:02:38.633] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Apr2025 23:02:38.633] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 23:02:38.635] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Apr2025 23:02:38.974] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> quieres algun consejo?
+[13Apr2025 23:03:08.683] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Apr2025 23:03:08.683] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 23:03:08.684] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Apr2025 23:03:08.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lawrencexf has made the advancement [Is it a Fruit or is it a Nut?]
+[13Apr2025 23:03:27.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 23:03:27.783] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 23:03:38.733] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 23:03:38.733] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 23:03:38.734] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 23:04:08.783] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 23:04:08.783] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 23:04:08.784] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 23:04:26.168] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> estamos en una aldea
+[13Apr2025 23:04:38.833] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 23:04:38.833] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 23:04:38.835] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.

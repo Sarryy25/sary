@@ -1725,6 +1725,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/charcoal_stick": {
+    "criteria": {
+      "has_fire": "2025-04-13 22:57:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/spruce_door": {
     "criteria": {
       "has_planks": "2025-04-13 21:21:11 +0000"

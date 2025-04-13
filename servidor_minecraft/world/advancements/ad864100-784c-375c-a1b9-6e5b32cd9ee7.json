@@ -77,6 +77,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/heal_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-04-13 22:57:16 +0000"
+    },
+    "done": false
+  },
   "cobblemon:recipes/consumables/hasty_mint": {
     "criteria": {
       "has_detriment_mint": "2025-04-13 22:11:43 +0000"
@@ -151,9 +157,21 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/dive_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-04-13 22:57:16 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/combat/iron_chestplate": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/premier_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-04-13 22:57:16 +0000"
     },
     "done": true
   },
@@ -427,6 +445,7 @@
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
       "has_black_apricorn": "2025-04-13 22:32:11 +0000",
+      "has_white_apricorn": "2025-04-13 22:57:16 +0000",
       "has_yellow_apricorn": "2025-04-13 21:37:45 +0000"
     },
     "done": false
@@ -467,6 +486,12 @@
       "has_mint": "2025-04-13 22:11:43 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/love_ball": {
+    "criteria": {
+      "has_white_apricorn": "2025-04-13 22:57:16 +0000"
+    },
+    "done": false
   },
   "cobblemon:recipes/balls/ultra_ball": {
     "criteria": {
@@ -789,9 +814,10 @@
   "cobblemon:recipes/balls/safari_ball": {
     "criteria": {
       "has_green_apricorn": "2025-04-13 21:38:11 +0000",
+      "has_white_apricorn": "2025-04-13 22:57:16 +0000",
       "has_yellow_apricorn": "2025-04-13 21:37:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:husbandry/root": {
     "criteria": {
@@ -903,10 +929,11 @@
   },
   "cobblemon:recipes/balls/fast_ball": {
     "criteria": {
+      "has_white_apricorn": "2025-04-13 22:57:16 +0000",
       "has_red_apricorn": "2025-04-13 21:28:03 +0000",
       "has_yellow_apricorn": "2025-04-13 21:37:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/lodestone": {
     "criteria": {
@@ -1254,7 +1281,8 @@
   },
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
-      "has_black_apricorn": "2025-04-13 22:32:11 +0000"
+      "has_black_apricorn": "2025-04-13 22:32:11 +0000",
+      "has_white_apricorn": "2025-04-13 22:57:16 +0000"
     },
     "done": false
   },
@@ -1427,6 +1455,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/white_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-13 22:57:16 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/transportation/acacia_boat": {
     "criteria": {
       "in_water": "2025-04-13 21:27:53 +0000"
@@ -1487,9 +1521,10 @@
   },
   "cobblemon:recipes/balls/sport_ball": {
     "criteria": {
+      "has_white_apricorn": "2025-04-13 22:57:16 +0000",
       "has_red_apricorn": "2025-04-13 21:28:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/building_blocks/amethyst_block": {
     "criteria": {
@@ -1629,9 +1664,10 @@
   "cobblemon:recipes/balls/timer_ball": {
     "criteria": {
       "has_black_apricorn": "2025-04-13 22:32:11 +0000",
+      "has_white_apricorn": "2025-04-13 22:57:16 +0000",
       "has_red_apricorn": "2025-04-13 21:28:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/decorations/white_bed": {
     "criteria": {
