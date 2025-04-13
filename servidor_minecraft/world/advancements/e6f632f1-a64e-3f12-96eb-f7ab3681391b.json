@@ -378,6 +378,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "ultra_ball": "2025-04-13 22:42:14 +0000",
       "citrine_ball": "2025-04-13 21:27:57 +0000"
     },
     "done": false
@@ -784,6 +785,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-13 22:37:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-13 21:41:21 +0000"
@@ -994,6 +1001,12 @@
     },
     "done": true
   },
+  "cobblemon:first_battle_victory": {
+    "criteria": {
+      "win": "2025-04-13 22:40:10 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_boots": {
     "criteria": {
       "has_gold_ingot": "2025-04-13 21:55:34 +0000"
@@ -1009,6 +1022,12 @@
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-13 22:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-13 22:37:26 +0000"
     },
     "done": true
   },
@@ -1312,6 +1331,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-13 21:46:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-13 22:37:26 +0000"
     },
     "done": true
   },
@@ -1627,6 +1652,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-13 22:37:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/magenta_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-13 22:17:11 +0000"
@@ -1645,6 +1676,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-13 22:37:26 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/mossy_cobblestone_wall": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-13 21:40:51 +0000"
@@ -1660,6 +1697,12 @@
   "minecraft:recipes/decorations/item_frame": {
     "criteria": {
       "has_leather": "2025-04-13 22:24:18 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2025-04-13 22:33:45 +0000"
     },
     "done": true
   },
@@ -1711,6 +1754,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-13 22:37:26 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/charcoal_stick": {
     "criteria": {
       "has_fire": "2025-04-13 22:06:29 +0000"
@@ -1738,6 +1787,12 @@
   "minecraft:recipes/building_blocks/mossy_cobblestone_slab_from_mossy_cobblestone_stonecutting": {
     "criteria": {
       "has_mossy_cobblestone": "2025-04-13 21:40:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/silk_scarf": {
+    "criteria": {
+      "has_wool": "2025-04-13 22:37:26 +0000"
     },
     "done": true
   },
@@ -1807,6 +1862,12 @@
     },
     "done": true
   },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2025-04-13 22:38:18 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/black_concrete_powder": {
     "criteria": {
       "has_sand": "2025-04-13 22:17:11 +0000"
@@ -1846,6 +1907,12 @@
   "minecraft:recipes/building_blocks/stripped_oak_wood": {
     "criteria": {
       "has_log": "2025-04-13 22:14:08 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-13 22:37:26 +0000"
     },
     "done": true
   },
@@ -1968,6 +2035,12 @@
   "minecraft:recipes/transportation/powered_rail": {
     "criteria": {
       "has_rail": "2025-04-13 21:51:23 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_evolution": {
+    "criteria": {
+      "evolve": "2025-04-13 22:33:55 +0000"
     },
     "done": true
   },

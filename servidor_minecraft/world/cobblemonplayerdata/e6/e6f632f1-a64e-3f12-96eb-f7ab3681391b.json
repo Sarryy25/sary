@@ -10,10 +10,10 @@
   "advancementData": {
     "totalCaptureCount": 1,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 5,
-    "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 5,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 9,
+    "totalPvPBattleVictoryCount": 1,
+    "totalPvWBattleVictoryCount": 8,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -22,8 +22,10 @@
     },
     "totalDefeatedCounts": {
       "cobblemon:snubbull": 1,
-      "cobblemon:yamper": 2,
-      "cobblemon:meowth": 1
+      "cobblemon:yamper": 3,
+      "cobblemon:meowth": 1,
+      "cobblemon:mareep": 1,
+      "cobblemon:wooloo": 1
     },
     "aspectsCollected": {}
   }

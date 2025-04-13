@@ -116,6 +116,7 @@
   "cobblemon:obtain_all_berries": {
     "criteria": {
       "obtain_charti_berry": "2025-04-13 21:36:50 +0000",
+      "obtain_persim_berry": "2025-04-13 22:33:33 +0000",
       "obtain_oran_berry": "2025-04-13 21:33:40 +0000"
     },
     "done": false
@@ -622,7 +623,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:silverfish": "2025-04-13 21:57:24 +0000"
+      "minecraft:silverfish": "2025-04-13 21:57:24 +0000",
+      "minecraft:zombie": "2025-04-13 22:35:37 +0000"
     },
     "done": false
   },
@@ -1285,6 +1287,12 @@
     },
     "done": false
   },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2025-04-13 22:35:01 +0000"
+    },
+    "done": true
+  },
   "minecraft:story/upgrade_tools": {
     "criteria": {
       "stone_pickaxe": "2025-04-13 21:24:25 +0000"
@@ -1503,6 +1511,12 @@
   "minecraft:recipes/building_blocks/gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-13 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2025-04-13 22:43:04 +0000"
     },
     "done": true
   },

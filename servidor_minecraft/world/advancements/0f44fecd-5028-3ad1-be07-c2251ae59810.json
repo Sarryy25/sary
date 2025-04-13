@@ -59,6 +59,12 @@
     },
     "done": true
   },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2025-04-13 22:36:45 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
       "has_white_apricorn": "2025-04-13 21:16:15 +0000",
@@ -84,6 +90,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_smoking": {
+    "criteria": {
+      "has_mutton": "2025-04-13 22:40:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/blue_dye": {
     "criteria": {
       "has_lapis_lazuli": "2025-04-13 21:45:17 +0000"
@@ -98,6 +110,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_rawst_berry": "2025-04-13 22:42:16 +0000",
       "obtain_oran_berry": "2025-04-13 21:22:27 +0000"
     },
     "done": false
@@ -269,6 +282,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/white_dye": {
+    "criteria": {
+      "has_bone_meal": "2025-04-13 22:33:48 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/jukebox": {
     "criteria": {
       "has_diamond": "2025-04-13 21:48:06 +0000"
@@ -405,9 +424,21 @@
     },
     "done": false
   },
+  "cobblemon:recipes/consumables/berry_juice": {
+    "criteria": {
+      "has_berries": "2025-04-13 22:42:09 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-13 22:20:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/painting": {
+    "criteria": {
+      "has_wool": "2025-04-13 22:40:45 +0000"
     },
     "done": true
   },
@@ -598,7 +629,8 @@
   },
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
-      "minecraft:skeleton": "2025-04-13 22:31:52 +0000"
+      "minecraft:skeleton": "2025-04-13 22:31:52 +0000",
+      "minecraft:zombie": "2025-04-13 22:33:31 +0000"
     },
     "done": false
   },
@@ -671,6 +703,12 @@
   "minecraft:recipes/decorations/polished_deepslate_wall_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-13 21:45:05 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/heal_powder": {
+    "criteria": {
+      "has_herb": "2025-04-13 22:36:45 +0000"
     },
     "done": true
   },
@@ -810,6 +848,12 @@
   "minecraft:recipes/building_blocks/deepslate": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-13 21:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_carpet": {
+    "criteria": {
+      "has_white_wool": "2025-04-13 22:40:45 +0000"
     },
     "done": true
   },
@@ -1153,6 +1197,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton": {
+    "criteria": {
+      "has_mutton": "2025-04-13 22:40:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/decorations/campfire": {
     "criteria": {
       "has_coal": "2025-04-13 22:13:02 +0000"
@@ -1162,6 +1212,12 @@
   "minecraft:recipes/building_blocks/deepslate_tile_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-13 21:45:05 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/white_banner": {
+    "criteria": {
+      "has_white_wool": "2025-04-13 22:40:45 +0000"
     },
     "done": true
   },
@@ -1180,6 +1236,12 @@
   "minecraft:recipes/redstone/oak_fence_gate": {
     "criteria": {
       "has_planks": "2025-04-13 22:10:42 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/revive": {
+    "criteria": {
+      "has_herb": "2025-04-13 22:36:45 +0000"
     },
     "done": true
   },
@@ -1206,6 +1268,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 22:19:00 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:first_catch": {
+    "criteria": {
+      "catch": "2025-04-13 22:43:00 +0000"
     },
     "done": true
   },
@@ -1282,6 +1350,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
+    "criteria": {
+      "has_mutton": "2025-04-13 22:40:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/purple_stained_glass": {
     "criteria": {
       "has_glass": "2025-04-13 22:18:57 +0000"
@@ -1309,6 +1383,12 @@
   "minecraft:recipes/building_blocks/cobblestone_slab": {
     "criteria": {
       "has_cobblestone": "2025-04-13 21:39:43 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/silk_scarf": {
+    "criteria": {
+      "has_wool": "2025-04-13 22:40:45 +0000"
     },
     "done": true
   },
@@ -1362,6 +1442,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "ultra_ball": "2025-04-13 22:34:26 +0000",
       "citrine_ball": "2025-04-13 21:28:03 +0000"
     },
     "done": false
@@ -1402,6 +1483,12 @@
   "minecraft:recipes/building_blocks/oak_planks": {
     "criteria": {
       "has_logs": "2025-04-13 22:10:40 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:healing_machine": {
+    "criteria": {
+      "use_healing_machine": "2025-04-13 22:35:29 +0000"
     },
     "done": true
   },
@@ -1506,6 +1593,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/white_bed": {
+    "criteria": {
+      "has_white_wool": "2025-04-13 22:40:45 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/tools/golden_hoe": {
     "criteria": {
       "has_gold_ingot": "2025-04-13 22:18:02 +0000"
@@ -1516,6 +1609,7 @@
     "criteria": {
       "chicken": "2025-04-13 21:18:43 +0000",
       "sweet_berries": "2025-04-13 21:16:04 +0000",
+      "mutton": "2025-04-13 22:41:05 +0000",
       "bread": "2025-04-13 21:20:35 +0000",
       "enchanted_golden_apple": "2025-04-13 21:52:36 +0000"
     },
@@ -1657,6 +1751,12 @@
   "minecraft:recipes/redstone/piston": {
     "criteria": {
       "has_redstone": "2025-04-13 21:50:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/bone_block": {
+    "criteria": {
+      "has_bone_meal": "2025-04-13 22:33:48 +0000"
     },
     "done": true
   },
