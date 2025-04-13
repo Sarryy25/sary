@@ -649,6 +649,7 @@
   "minecraft:adventure/kill_all_mobs": {
     "criteria": {
       "minecraft:spider": "2025-04-13 22:52:17 +0000",
+      "minecraft:phantom": "2025-04-13 23:05:29 +0000",
       "minecraft:silverfish": "2025-04-13 21:57:24 +0000",
       "minecraft:zombie": "2025-04-13 22:35:37 +0000"
     },
@@ -1383,6 +1384,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/held/covert_cloak": {
+    "criteria": {
+      "has_membrane": "2025-04-13 23:05:29 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/food/cooked_mutton_from_campfire_cooking": {
     "criteria": {
       "has_mutton": "2025-04-13 21:28:39 +0000"
@@ -1691,7 +1698,8 @@
     "criteria": {
       "cooked_porkchop": "2025-04-13 21:45:07 +0000",
       "cooked_mutton": "2025-04-13 21:33:32 +0000",
-      "sweet_berries": "2025-04-13 21:27:38 +0000"
+      "sweet_berries": "2025-04-13 21:27:38 +0000",
+      "bread": "2025-04-13 23:10:41 +0000"
     },
     "done": false
   },
@@ -1734,6 +1742,12 @@
   "minecraft:recipes/building_blocks/spruce_stairs": {
     "criteria": {
       "has_planks": "2025-04-13 21:22:03 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/evolution/reaper_cloth": {
+    "criteria": {
+      "has_membrane": "2025-04-13 23:05:29 +0000"
     },
     "done": true
   },
