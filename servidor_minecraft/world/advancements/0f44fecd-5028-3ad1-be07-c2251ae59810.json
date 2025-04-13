@@ -17,6 +17,12 @@
     },
     "done": true
   },
+  "cobblemon:obtain_berry": {
+    "criteria": {
+      "check_inv": "2025-04-13 21:22:27 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/heal_ball": {
     "criteria": {
       "has_white_apricorn": "2025-04-13 21:16:15 +0000",
@@ -36,6 +42,12 @@
     },
     "done": true
   },
+  "cobblemon:obtain_all_berries": {
+    "criteria": {
+      "obtain_oran_berry": "2025-04-13 21:22:27 +0000"
+    },
+    "done": false
+  },
   "cobblemon:recipes/balls/dive_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-04-13 21:18:02 +0000",
@@ -49,6 +61,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/agriculture/black_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-13 21:21:28 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-04-13 21:18:02 +0000",
@@ -59,10 +77,11 @@
   },
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-04-13 21:21:28 +0000",
       "has_yellow_apricorn": "2025-04-13 21:17:20 +0000",
       "has_red_apricorn": "2025-04-13 21:17:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:recipes/food/cooked_chicken": {
     "criteria": {
@@ -76,17 +95,37 @@
     },
     "done": true
   },
-  "cobblemon:recipes/balls/heavy_ball": {
+  "cobblemon:craft_base_balls": {
     "criteria": {
-      "has_blue_apricorn": "2025-04-13 21:18:02 +0000"
+      "citrine_ball": "2025-04-13 21:28:03 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/combat/bow": {
+    "criteria": {
+      "has_string": "2025-04-13 21:18:37 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/heavy_ball": {
+    "criteria": {
+      "has_blue_apricorn": "2025-04-13 21:18:02 +0000",
+      "has_black_apricorn": "2025-04-13 21:21:28 +0000"
+    },
+    "done": true
   },
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-04-13 21:18:02 +0000",
+      "has_black_apricorn": "2025-04-13 21:21:28 +0000",
       "has_white_apricorn": "2025-04-13 21:16:15 +0000",
       "has_yellow_apricorn": "2025-04-13 21:17:20 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/dusk_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-04-13 21:21:28 +0000"
     },
     "done": false
   },
@@ -99,9 +138,16 @@
   },
   "cobblemon:recipes/balls/ultra_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-04-13 21:21:28 +0000",
       "has_yellow_apricorn": "2025-04-13 21:17:20 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:recipes/tools/fishing_rod": {
+    "criteria": {
+      "has_string": "2025-04-13 21:18:37 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/decorations/chest": {
     "criteria": {
@@ -109,13 +155,32 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/beehive": {
+    "criteria": {
+      "has_honeycomb": "2025-04-13 21:32:13 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:root": {
+    "criteria": {
+      "picked_starter": "2025-04-13 21:19:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/level_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-04-13 21:21:28 +0000",
       "has_red_apricorn": "2025-04-13 21:17:41 +0000",
       "has_yellow_apricorn": "2025-04-13 21:17:20 +0000",
       "has_pink_apricorn": "2025-04-13 21:16:27 +0000"
     },
-    "done": false
+    "done": true
+  },
+  "minecraft:adventure/sleep_in_bed": {
+    "criteria": {
+      "slept_in_bed": "2025-04-13 21:32:23 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/transportation/cherry_boat": {
     "criteria": {
@@ -126,6 +191,12 @@
   "cobblemon:harvest_apricorn_seed": {
     "criteria": {
       "check_inv": "2025-04-13 21:16:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/tripwire_hook": {
+    "criteria": {
+      "has_string": "2025-04-13 21:18:37 +0000"
     },
     "done": true
   },
@@ -144,6 +215,12 @@
   "cobblemon:recipes/agriculture/yellow_apricorn_smelt_to_dye": {
     "criteria": {
       "has_apricorn": "2025-04-13 21:17:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/candle": {
+    "criteria": {
+      "has_string": "2025-04-13 21:18:37 +0000"
     },
     "done": true
   },
@@ -196,6 +273,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/slate_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-04-13 21:21:28 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/agriculture/red_apricorn_smelt_to_dye": {
     "criteria": {
       "has_apricorn": "2025-04-13 21:17:41 +0000"
@@ -207,6 +290,12 @@
       "has_white_apricorn": "2025-04-13 21:16:15 +0000",
       "has_red_apricorn": "2025-04-13 21:17:41 +0000",
       "has_yellow_apricorn": "2025-04-13 21:17:20 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/mulch_base": {
+    "criteria": {
+      "has_berry": "2025-04-13 21:22:27 +0000"
     },
     "done": true
   },
@@ -251,9 +340,10 @@
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
       "has_blue_apricorn": "2025-04-13 21:18:02 +0000",
+      "has_black_apricorn": "2025-04-13 21:21:28 +0000",
       "has_white_apricorn": "2025-04-13 21:16:15 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/quick_ball": {
     "criteria": {
@@ -274,6 +364,12 @@
     },
     "done": false
   },
+  "megamons:grant_megamons_guide": {
+    "criteria": {
+      "tick": "2025-04-13 21:19:43 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/agriculture/white_apricorn_smelt_to_dye": {
     "criteria": {
       "has_apricorn": "2025-04-13 21:16:15 +0000"
@@ -286,12 +382,25 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/white_wool_from_string": {
+    "criteria": {
+      "has_string": "2025-04-13 21:18:37 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_all_balls": {
+    "criteria": {
+      "citrine_ball": "2025-04-13 21:28:03 +0000"
+    },
+    "done": false
+  },
   "cobblemon:recipes/balls/luxury_ball": {
     "criteria": {
+      "has_black_apricorn": "2025-04-13 21:21:28 +0000",
       "has_yellow_apricorn": "2025-04-13 21:17:20 +0000",
       "has_red_apricorn": "2025-04-13 21:17:41 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/sport_ball": {
     "criteria": {
@@ -300,16 +409,38 @@
     },
     "done": true
   },
-  "cobblemon:recipes/balls/timer_ball": {
+  "cobblemon:craft_poke_ball": {
     "criteria": {
-      "has_white_apricorn": "2025-04-13 21:16:15 +0000",
-      "has_red_apricorn": "2025-04-13 21:17:41 +0000"
+      "requirement": "2025-04-13 21:28:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/crossbow": {
+    "criteria": {
+      "has_string": "2025-04-13 21:18:37 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/adventuring_time": {
+    "criteria": {
+      "minecraft:river": "2025-04-13 21:24:03 +0000",
+      "minecraft:plains": "2025-04-13 21:23:34 +0000"
     },
     "done": false
   },
+  "cobblemon:recipes/balls/timer_ball": {
+    "criteria": {
+      "has_black_apricorn": "2025-04-13 21:21:28 +0000",
+      "has_white_apricorn": "2025-04-13 21:16:15 +0000",
+      "has_red_apricorn": "2025-04-13 21:17:41 +0000"
+    },
+    "done": true
+  },
   "minecraft:husbandry/balanced_diet": {
     "criteria": {
-      "sweet_berries": "2025-04-13 21:16:04 +0000"
+      "chicken": "2025-04-13 21:18:43 +0000",
+      "sweet_berries": "2025-04-13 21:16:04 +0000",
+      "bread": "2025-04-13 21:20:35 +0000"
     },
     "done": false
   },
@@ -319,6 +450,12 @@
       "has_red_apricorn": "2025-04-13 21:17:41 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/decorations/loom": {
+    "criteria": {
+      "has_string": "2025-04-13 21:18:37 +0000"
+    },
+    "done": true
   },
   "cobblemon:recipes/balls/poke_ball": {
     "criteria": {
@@ -341,6 +478,12 @@
   "minecraft:recipes/transportation/dark_oak_boat": {
     "criteria": {
       "in_water": "2025-04-13 21:17:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/honeycomb_block": {
+    "criteria": {
+      "has_honeycomb": "2025-04-13 21:32:13 +0000"
     },
     "done": true
   },
