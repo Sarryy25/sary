@@ -113,6 +113,12 @@
     },
     "done": true
   },
+  "minecraft:story/obtain_armor": {
+    "criteria": {
+      "iron_helmet": "2025-04-13 22:48:08 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/blocks/healing_machine": {
     "criteria": {
       "has_copper_ingot": "2025-04-13 21:21:26 +0000"
@@ -349,6 +355,12 @@
     },
     "done": false
   },
+  "cobblemon:recipes/evolution/upgrade": {
+    "criteria": {
+      "has_amethyst": "2025-04-13 22:47:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/iron_nugget": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 21:43:28 +0000"
@@ -558,6 +570,12 @@
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/berry_juice": {
+    "criteria": {
+      "has_berries": "2025-04-13 22:43:31 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/netherite_leggings_smithing": {
     "criteria": {
       "has_netherite_ingot": "2025-04-13 22:20:58 +0000"
@@ -730,6 +748,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/tools/spyglass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-13 22:47:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/stone_stairs_from_stone_stonecutting": {
     "criteria": {
       "has_stone": "2025-04-13 22:38:11 +0000"
@@ -856,6 +880,12 @@
   "minecraft:recipes/redstone/tripwire_hook": {
     "criteria": {
       "has_string": "2025-04-13 22:10:51 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/bone_meal": {
+    "criteria": {
+      "has_bone": "2025-04-13 22:49:41 +0000"
     },
     "done": true
   },
@@ -1277,6 +1307,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/calibrated_sculk_sensor": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-13 22:47:38 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_smelting_raw_gold": {
     "criteria": {
       "has_raw_gold": "2025-04-13 22:00:43 +0000"
@@ -1286,6 +1322,12 @@
   "minecraft:recipes/decorations/iron_bars": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 21:43:28 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/tinted_glass": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-13 22:47:38 +0000"
     },
     "done": true
   },
@@ -1838,6 +1880,12 @@
       "has_white_apricorn": "2025-04-13 21:16:40 +0000"
     },
     "done": false
+  },
+  "minecraft:recipes/building_blocks/amethyst_block": {
+    "criteria": {
+      "has_amethyst_shard": "2025-04-13 22:47:38 +0000"
+    },
+    "done": true
   },
   "minecraft:recipes/combat/wooden_sword": {
     "criteria": {

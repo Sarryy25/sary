@@ -11,9 +11,9 @@
     "totalCaptureCount": 1,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 9,
+    "totalBattleVictoryCount": 11,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 9,
+    "totalPvWBattleVictoryCount": 11,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -28,7 +28,9 @@
       "cobblemon:voltorb": 1,
       "cobblemon:igglybuff": 1,
       "cobblemon:taillow": 1,
-      "cobblemon:mareep": 1
+      "cobblemon:mareep": 1,
+      "cobblemon:crabrawler": 1,
+      "cobblemon:fidough": 1
     },
     "aspectsCollected": {}
   }
