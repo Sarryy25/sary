@@ -11,9 +11,9 @@
     "totalCaptureCount": 7,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 44,
+    "totalBattleVictoryCount": 45,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 44,
+    "totalPvWBattleVictoryCount": 45,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -42,7 +42,8 @@
       "cobblemon:weezing": 1,
       "cobblemon:furret": 1,
       "cobblemon:thievul": 1,
-      "cobblemon:growlithe": 1
+      "cobblemon:growlithe": 1,
+      "cobblemon:shiftry": 1
     },
     "aspectsCollected": {}
   }

@@ -11,6 +11,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/leather_helmet": {
+    "criteria": {
+      "has_leather": "2025-04-13 23:49:46 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/bold_mint": {
     "criteria": {
       "has_benefit_mint": "2025-04-13 22:11:43 +0000"
@@ -50,6 +56,12 @@
   "minecraft:recipes/building_blocks/light_gray_concrete_powder": {
     "criteria": {
       "has_gravel": "2025-04-13 21:52:02 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_leggings": {
+    "criteria": {
+      "has_leather": "2025-04-13 23:49:46 +0000"
     },
     "done": true
   },
@@ -500,6 +512,12 @@
     },
     "done": false
   },
+  "minecraft:recipes/combat/leather_chestplate": {
+    "criteria": {
+      "has_leather": "2025-04-13 23:49:46 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/balls/ultra_ball": {
     "criteria": {
       "has_black_apricorn": "2025-04-13 22:32:11 +0000",
@@ -825,6 +843,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather_horse_armor": {
+    "criteria": {
+      "has_leather": "2025-04-13 23:49:46 +0000"
+    },
+    "done": true
+  },
   "megamons:recipes/tools/mega_cuff": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 21:33:09 +0000"
@@ -1129,6 +1153,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef_from_smoking": {
+    "criteria": {
+      "has_beef": "2025-04-13 23:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/polished_deepslate_slab_from_cobbled_deepslate_stonecutting": {
     "criteria": {
       "has_cobbled_deepslate": "2025-04-13 21:54:33 +0000"
@@ -1333,6 +1363,12 @@
   "minecraft:recipes/tools/iron_shovel": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 21:33:09 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/item_frame": {
+    "criteria": {
+      "has_leather": "2025-04-13 23:49:46 +0000"
     },
     "done": true
   },
@@ -1644,6 +1680,7 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:cherry_grove": "2025-04-13 23:50:38 +0000",
       "minecraft:beach": "2025-04-13 21:28:54 +0000",
       "minecraft:river": "2025-04-13 22:05:07 +0000",
       "minecraft:forest": "2025-04-13 22:03:38 +0000",
@@ -1666,6 +1703,12 @@
   "minecraft:recipes/decorations/barrel": {
     "criteria": {
       "has_planks": "2025-04-13 21:22:03 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/leather_boots": {
+    "criteria": {
+      "has_leather": "2025-04-13 23:49:46 +0000"
     },
     "done": true
   },
@@ -1837,6 +1880,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_beef": {
+    "criteria": {
+      "has_beef": "2025-04-13 23:49:46 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/redstone/iron_door": {
     "criteria": {
       "has_iron_ingot": "2025-04-13 21:33:09 +0000"
@@ -1882,6 +1931,12 @@
   "minecraft:recipes/combat/golden_leggings": {
     "criteria": {
       "has_gold_ingot": "2025-04-13 22:29:30 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_beef_from_campfire_cooking": {
+    "criteria": {
+      "has_beef": "2025-04-13 23:49:46 +0000"
     },
     "done": true
   },

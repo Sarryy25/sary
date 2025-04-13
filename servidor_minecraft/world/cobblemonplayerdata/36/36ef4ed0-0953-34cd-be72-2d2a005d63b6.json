@@ -11,9 +11,9 @@
     "totalCaptureCount": 3,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 34,
+    "totalBattleVictoryCount": 35,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 34,
+    "totalPvWBattleVictoryCount": 35,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -44,7 +44,8 @@
       "cobblemon:koffing": 3,
       "cobblemon:bouffalant": 1,
       "cobblemon:crabrawler": 2,
-      "cobblemon:ponyta": 1
+      "cobblemon:ponyta": 1,
+      "cobblemon:fidough": 1
     },
     "aspectsCollected": {}
   }

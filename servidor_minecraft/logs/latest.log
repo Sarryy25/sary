@@ -1397,3 +1397,6 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Apr2025 23:26:42.221] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> ahorita vuelvo
 [13Apr2025 23:27:04.245] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pipexdd7 lost connection: Disconnected
 [13Apr2025 23:27:04.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pipexdd7 left the game
+[13Apr2025 23:52:58.390] [Server thread/INFO] [net.minecraft.server.network.ServerLoginPacketListenerImpl/]: com.mojang.authlib.GameProfile@3b64bcdd[id=<null>,name=Pipexdd7,properties={},legacy=false] (/127.142.116.191:42509) lost connection: Disconnected
+[13Apr2025 23:53:11.408] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Pipexdd7[/127.142.116.191:35575] logged in with entity id 71752 at (405.47438223070833, 80.0, -610.0500000119209)
+[13Apr2025 23:53:11.424] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pipexdd7 joined the game
