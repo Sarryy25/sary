@@ -3377,3 +3377,232 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [13Apr2025 22:14:03.783] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
 [13Apr2025 22:14:03.783] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [13Apr2025 22:14:03.785] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:14:33.833] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:14:33.833] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:14:33.835] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:15:03.883] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:15:03.883] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:15:03.884] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:15:11.629] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> el xray tampoco era enserio
+[13Apr2025 22:15:20.404] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=484, y=47, z=-798} BlockPos{x=485, y=47, z=-798}
+[13Apr2025 22:15:20.432] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=484, y=47, z=-798} BlockPos{x=485, y=47, z=-798}
+[13Apr2025 22:15:33.933] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:15:33.933] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:15:33.935] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:16:02.712] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> que es un sleeping pokemon osea que este dormido ?
+[13Apr2025 22:16:03.983] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:16:03.983] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:16:03.985] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:16:07.032] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> si
+[13Apr2025 22:16:24.074] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> es una pokeball para atrapar pokemons dormidos mas facilv rd?
+[13Apr2025 22:16:33.061] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> pues como se ucando duermen
+[13Apr2025 22:16:34.033] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:16:34.033] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:16:34.034] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:16:38.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> esporas
+[13Apr2025 22:16:42.651] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3f17b024-9969-4c5d-abd8-053b48fe0f61
+[13Apr2025 22:16:42.651] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3f17b024-9969-4c5d-abd8-053b48fe0f61
+[13Apr2025 22:16:42.917] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> somniferos
+[13Apr2025 22:16:46.699] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> x movimientos los ponen a dormir
+[13Apr2025 22:16:55.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pipexdd7 has made the advancement [Very Berry]
+[13Apr2025 22:16:59.862] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> que pokeball es recomendabl hacer
+[13Apr2025 22:17:04.083] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:17:04.083] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:17:04.085] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:17:06.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> ultra
+[13Apr2025 22:17:10.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> y depende q pokemons quieras
+[13Apr2025 22:17:34.133] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:17:34.133] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:17:34.134] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:17:43.153] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> no tengo del amarillo
+[13Apr2025 22:18:04.183] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:18:04.183] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:18:04.184] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:18:17.026] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> traigna brotes de trodo
+[13Apr2025 22:18:18.196] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> xfa
+[13Apr2025 22:18:27.785] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 22:18:27.790] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 22:18:34.233] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:18:34.233] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:18:34.234] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:18:38.200] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> tengo del azul negro y blanco
+[13Apr2025 22:18:54.710] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> qe
+[13Apr2025 22:19:00.101] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sarydark_23 has made the advancement [Acquire Hardware]
+[13Apr2025 22:19:04.283] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:19:04.283] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:19:04.284] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:19:04.498] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> y es ´para qe
+[13Apr2025 22:19:08.648] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> tienes jei?
+[13Apr2025 22:19:09.650] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> si lo de la pc si vi
+[13Apr2025 22:19:11.553] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> no se la des
+[13Apr2025 22:19:24.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> crafteo
+[13Apr2025 22:19:29.351] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> el mega cuff ?
+[13Apr2025 22:19:33.605] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> ci
+[13Apr2025 22:19:34.333] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:19:34.333] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:19:34.334] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:20:01.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> que hago con eso
+[13Apr2025 22:20:03.423] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> EL VENDEDOR VENDE HUEVOS
+[13Apr2025 22:20:04.383] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Apr2025 22:20:04.383] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:20:04.384] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Apr2025 22:20:14.372] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> ero por net herite
+[13Apr2025 22:20:15.433] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> mas rata
+[13Apr2025 22:20:25.664] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> shiny
+[13Apr2025 22:20:34.433] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Apr2025 22:20:34.433] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:20:34.434] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Apr2025 22:20:35.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> veamos quien teien mas suerte les doy 5 por los jajas
+[13Apr2025 22:20:43.160] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lawrencexf has made the advancement [What a Deal!]
+[13Apr2025 22:20:58.255] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sarydark_23: Gave 5 [Netherite Ingot] to 4]
+[13Apr2025 22:20:59.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> saben si se colocan
+[13Apr2025 22:21:02.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> o si los llevo encima?
+[13Apr2025 22:21:04.483] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Apr2025 22:21:04.483] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:21:04.484] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Apr2025 22:21:04.876] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sarydark_23 has made the advancement [What a Deal!]
+[13Apr2025 22:21:17.461] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Sarydark_23: Teleported Pipexdd7 to Sarydark_23]
+[13Apr2025 22:21:19.430] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> tome brotes
+[13Apr2025 22:21:31.459] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> hagan zona debrotes
+[13Apr2025 22:21:33.576] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pipexdd7 has made the advancement [What a Deal!]
+[13Apr2025 22:21:34.533] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:21:34.533] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:21:34.534] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:21:48.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan19807 has made the advancement [What a Deal!]
+[13Apr2025 22:21:48.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> d donde mr sacaron 5 de netherite?...
+[13Apr2025 22:22:04.583] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[13Apr2025 22:22:04.583] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:22:04.583] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[13Apr2025 22:22:05.429] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> si lo pongo ya es mio ?
+[13Apr2025 22:22:18.106] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> si pongo el shiny ya es mio ?
+[13Apr2025 22:22:25.012] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> no coloquen los huevos
+[13Apr2025 22:22:28.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> enonces mjor lo guardo
+[13Apr2025 22:22:34.422] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> que hago el mega cuff
+[13Apr2025 22:22:34.633] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[13Apr2025 22:22:34.633] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:22:34.633] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[13Apr2025 22:22:36.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> frisk
+[13Apr2025 22:23:04.683] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[13Apr2025 22:23:04.683] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:23:04.683] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[13Apr2025 22:23:27.778] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 22:23:27.782] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 22:23:34.733] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:23:34.733] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:23:34.734] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:23:39.078] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> q haces pipe
+[13Apr2025 22:23:41.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> ese es tipo agua
+[13Apr2025 22:23:47.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> como veo eso de los tipos
+[13Apr2025 22:23:52.902] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> si es azul
+[13Apr2025 22:23:54.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> es agua
+[13Apr2025 22:23:55.698] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> si es rosa
+[13Apr2025 22:23:57.448] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> es hada
+[13Apr2025 22:23:59.805] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> si es rojo
+[13Apr2025 22:24:01.246] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> es fuego
+[13Apr2025 22:24:04.783] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:24:04.783] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:24:04.784] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:24:11.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> com oasi
+[13Apr2025 22:24:31.627] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> los colores del pokemon ?
+[13Apr2025 22:24:34.833] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:24:34.833] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:24:34.835] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:24:39.595] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> fue chiste
+[13Apr2025 22:24:41.680] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> pero si masomenos
+[13Apr2025 22:25:04.883] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:25:04.883] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:25:04.885] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:25:34.933] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:25:34.933] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:25:34.935] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:26:04.983] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:26:04.983] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:26:04.984] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:26:13.009] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> osesa no preguntaa eso
+[13Apr2025 22:26:18.449] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> como saben que elmento es el pokemon con que sea enfrenta xdd
+[13Apr2025 22:26:35.033] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Apr2025 22:26:35.033] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:26:35.034] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Apr2025 22:26:37.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> pero donde ven ese color
+[13Apr2025 22:26:38.983] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> DXD
+[13Apr2025 22:26:42.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> osea lo del color del pokemon
+[13Apr2025 22:26:46.132] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> COMO MK
+[13Apr2025 22:26:51.596] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> SI POKEMOSN TIENEN TODOS LOS COLORES
+[13Apr2025 22:26:52.202] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> W
+[13Apr2025 22:27:05.083] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[13Apr2025 22:27:05.083] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:27:05.085] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[13Apr2025 22:27:35.133] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:27:35.133] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:27:35.134] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:27:56.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> demen amarilas
+[13Apr2025 22:28:04.762] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pipexdd7 has made the advancement [Hard Work and Dedication]
+[13Apr2025 22:28:05.183] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:28:05.183] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:28:05.184] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:28:14.473] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sarydark_23 has made the advancement [Cover Me with Diamonds]
+[13Apr2025 22:28:21.077] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> zz?
+[13Apr2025 22:28:27.777] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 22:28:27.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 22:28:30.103] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan19807 has made the advancement [Suit Up]
+[13Apr2025 22:28:33.512] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> quien me da bolas amrillsa
+[13Apr2025 22:28:35.233] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:28:35.233] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:28:35.234] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:28:40.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> si
+[13Apr2025 22:28:58.794] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> no
+[13Apr2025 22:29:04.782] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> quiero amarillos
+[13Apr2025 22:29:05.283] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:29:05.283] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:29:05.284] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:29:17.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> planta
+[13Apr2025 22:29:18.593] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> p ahacer polkebols
+[13Apr2025 22:29:20.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> electrico
+[13Apr2025 22:29:35.333] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[13Apr2025 22:29:35.333] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:29:35.334] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[13Apr2025 22:30:05.383] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:30:05.383] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:30:05.385] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:30:16.594] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b6472bff-5d8f-483f-a9f5-a2b628724bbc
+[13Apr2025 22:30:16.594] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b6472bff-5d8f-483f-a9f5-a2b628724bbc
+[13Apr2025 22:30:35.433] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:30:35.433] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:30:35.435] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:31:05.483] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:31:05.483] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:31:05.485] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:31:08.389] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/35252, l='ServerLevel[world]', x=241.21, y=43.00, z=-658.69] died, message: 'Villager hit the ground too hard'
+[13Apr2025 22:31:10.569] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> llora
+[13Apr2025 22:31:35.533] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:31:35.533] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:31:35.535] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:31:38.095] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> xq no tenemos los cofres juntos
+[13Apr2025 22:31:40.969] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> ni q fuera compettitivo
+[13Apr2025 22:31:52.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Sarydark_23 has made the advancement [Monster Hunter]
+[13Apr2025 22:31:55.600] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> yo no decido
+[13Apr2025 22:32:05.583] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:32:05.583] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:32:05.585] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:32:12.724] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> un stonjourner
+[13Apr2025 22:32:33.049] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> si
+[13Apr2025 22:32:34.903] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan19807 has made the advancement [Surge Protector]
+[13Apr2025 22:32:35.633] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:32:35.633] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:32:35.635] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:33:05.683] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:33:05.683] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:33:05.685] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:33:19.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lawrencexf has made the advancement [Surge Protector]
+[13Apr2025 22:33:25.025] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> deme una
+[13Apr2025 22:33:27.784] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[13Apr2025 22:33:27.789] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[13Apr2025 22:33:35.733] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:33:35.733] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:33:35.735] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:33:45.151] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lawrencexf has made the advancement [A New Friend!]
+[13Apr2025 22:33:55.665] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lawrencexf has made the advancement [Hard Work and Dedication]
+[13Apr2025 22:34:05.783] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 3 Pokémon stores.
+[13Apr2025 22:34:05.783] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[13Apr2025 22:34:05.785] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 3 Pokémon stores.
+[13Apr2025 22:34:13.575] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Sarydark_23> ya me lo gaste

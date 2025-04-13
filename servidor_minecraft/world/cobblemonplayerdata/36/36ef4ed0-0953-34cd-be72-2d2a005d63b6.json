@@ -10,10 +10,10 @@
   "advancementData": {
     "totalCaptureCount": 2,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 0,
-    "totalBattleVictoryCount": 9,
+    "totalEvolvedCount": 1,
+    "totalBattleVictoryCount": 13,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 9,
+    "totalPvWBattleVictoryCount": 13,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -27,10 +27,11 @@
       "cobblemon:caterpie": 1,
       "cobblemon:taillow": 1,
       "cobblemon:rookidee": 1,
-      "cobblemon:zigzagoon": 1,
-      "cobblemon:sentret": 1,
+      "cobblemon:zigzagoon": 2,
+      "cobblemon:sentret": 2,
       "cobblemon:patrat": 1,
-      "cobblemon:rattata": 1
+      "cobblemon:rattata": 2,
+      "cobblemon:wingull": 1
     },
     "aspectsCollected": {}
   }
