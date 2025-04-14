@@ -727,6 +727,7 @@
       "minecraft:wooded_badlands": "2025-04-14 21:20:29 +0000",
       "minecraft:badlands": "2025-04-14 21:34:04 +0000",
       "minecraft:beach": "2025-04-13 21:29:31 +0000",
+      "minecraft:dark_forest": "2025-04-14 22:40:30 +0000",
       "minecraft:mangrove_swamp": "2025-04-14 00:05:07 +0000",
       "minecraft:sparse_jungle": "2025-04-14 00:04:53 +0000",
       "minecraft:river": "2025-04-13 21:24:58 +0000",
@@ -735,6 +736,7 @@
       "minecraft:grove": "2025-04-14 02:23:16 +0000",
       "minecraft:cold_ocean": "2025-04-14 00:49:34 +0000",
       "minecraft:forest": "2025-04-13 21:39:43 +0000",
+      "minecraft:lush_caves": "2025-04-14 22:43:52 +0000",
       "minecraft:deep_cold_ocean": "2025-04-14 00:49:44 +0000",
       "minecraft:ice_spikes": "2025-04-14 01:38:06 +0000",
       "minecraft:frozen_ocean": "2025-04-14 01:43:01 +0000",
@@ -2603,27 +2605,39 @@
     },
     "done": true
   },
-  "minecraft:recipes/misc/emerald": {
-    "criteria": {
-      "has_emerald_block": "2025-04-14 21:21:46 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:full_party": {
-    "criteria": {
-      "full_party": "2025-04-14 21:41:36 +0000"
-    },
-    "done": true
-  },
   "cobblemon:first_battle_victory": {
     "criteria": {
       "win": "2025-04-14 20:46:36 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/balls/ancient_poke_ball": {
+  "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
-      "has_tumblestone": "2025-04-14 22:10:26 +0000"
+      "has_leather": "2025-04-14 20:53:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
+    "criteria": {
+      "has_leather": "2025-04-14 20:53:28 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-14 20:55:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-14 20:55:58 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
+    "criteria": {
+      "has_iron_backpack": "2025-04-14 20:59:33 +0000"
     },
     "done": true
   },
@@ -2633,21 +2647,69 @@
     },
     "done": true
   },
-  "cobblemon:recipes/balls/ancient_great_ball": {
+  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
+    "criteria": {
+      "has_diamond_backpack": "2025-04-14 21:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-14 21:21:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/assault_vest": {
+    "criteria": {
+      "has_protector": "2025-04-14 21:23:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/fine_remedy": {
+    "criteria": {
+      "has_remedy": "2025-04-14 21:23:27 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_remedy": {
+    "criteria": {
+      "check_inv": "2025-04-14 21:23:27 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-04-14 21:41:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-14 21:52:35 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-04-14 22:10:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-14 22:10:20 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/balls/ancient_poke_ball": {
     "criteria": {
       "has_tumblestone": "2025-04-14 22:10:26 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+  "cobblemon:recipes/balls/ancient_great_ball": {
     "criteria": {
-      "has_dandelion": "2025-04-14 22:14:36 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/loaded_dice": {
-    "criteria": {
-      "has_ball": "2025-04-14 22:18:21 +0000"
+      "has_tumblestone": "2025-04-14 22:10:26 +0000"
     },
     "done": true
   },
@@ -2669,39 +2731,9 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
-    "criteria": {
-      "has_diamond_backpack": "2025-04-14 21:00:34 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/decorations/decorated_pot_simple": {
-    "criteria": {
-      "has_brick": "2025-04-14 22:10:20 +0000"
-    },
-    "done": true
-  },
-  "minecraft:story/lava_bucket": {
-    "criteria": {
-      "lava_bucket": "2025-04-14 21:52:35 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/backpack": {
-    "criteria": {
-      "has_leather": "2025-04-14 20:53:28 +0000"
-    },
-    "done": true
-  },
   "cobblemon:recipes/balls/ancient_slate_ball": {
     "criteria": {
       "has_tumblestone": "2025-04-14 22:10:26 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/fine_remedy": {
-    "criteria": {
-      "has_remedy": "2025-04-14 21:23:27 +0000"
     },
     "done": true
   },
@@ -2711,45 +2743,9 @@
     },
     "done": true
   },
-  "minecraft:adventure/salvage_sherd": {
-    "criteria": {
-      "has_sherd": "2025-04-14 22:10:20 +0000"
-    },
-    "done": false
-  },
-  "sophisticatedbackpacks:recipes/misc/upgrade_base": {
-    "criteria": {
-      "has_leather": "2025-04-14 20:53:28 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
-    "criteria": {
-      "has_backpack": "2025-04-14 20:55:58 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/assault_vest": {
-    "criteria": {
-      "has_protector": "2025-04-14 21:23:24 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:craft_remedy": {
-    "criteria": {
-      "check_inv": "2025-04-14 21:23:27 +0000"
-    },
-    "done": true
-  },
   "cobblemon:recipes/balls/ancient_azure_ball": {
     "criteria": {
       "has_tumblestone": "2025-04-14 22:10:26 +0000"
-    },
-    "done": true
-  },
-  "sophisticatedbackpacks:recipes/misc/gold_backpack": {
-    "criteria": {
-      "has_iron_backpack": "2025-04-14 20:59:33 +0000"
     },
     "done": true
   },
@@ -2771,9 +2767,27 @@
     },
     "done": true
   },
-  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
     "criteria": {
-      "has_backpack": "2025-04-14 20:55:58 +0000"
+      "has_dandelion": "2025-04-14 22:14:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/loaded_dice": {
+    "criteria": {
+      "has_ball": "2025-04-14 22:18:21 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/misc/augurite_axe": {
+    "criteria": {
+      "has_augurite": "2025-04-14 22:36:32 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/augurite_block": {
+    "criteria": {
+      "has_augurite": "2025-04-14 22:36:32 +0000"
     },
     "done": true
   },
