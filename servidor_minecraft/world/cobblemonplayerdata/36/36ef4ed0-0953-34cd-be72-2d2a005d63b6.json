@@ -10,10 +10,10 @@
   "advancementData": {
     "totalCaptureCount": 7,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 47,
+    "totalEvolvedCount": 4,
+    "totalBattleVictoryCount": 52,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 47,
+    "totalPvWBattleVictoryCount": 52,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
@@ -34,7 +34,7 @@
       "cobblemon:taillow": 4,
       "cobblemon:rookidee": 1,
       "cobblemon:zigzagoon": 2,
-      "cobblemon:sentret": 3,
+      "cobblemon:sentret": 4,
       "cobblemon:patrat": 1,
       "cobblemon:rattata": 2,
       "cobblemon:wingull": 1,
@@ -56,7 +56,11 @@
       "cobblemon:woobat": 1,
       "cobblemon:pelipper": 1,
       "cobblemon:aipom": 1,
-      "cobblemon:weedle": 1
+      "cobblemon:weedle": 1,
+      "cobblemon:deerling": 1,
+      "cobblemon:igglybuff": 1,
+      "cobblemon:maschiff": 1,
+      "cobblemon:weezing": 1
     },
     "aspectsCollected": {}
   }

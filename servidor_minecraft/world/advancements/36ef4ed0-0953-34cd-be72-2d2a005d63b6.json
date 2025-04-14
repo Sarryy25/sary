@@ -2294,6 +2294,12 @@
     },
     "done": true
   },
+  "cobblemon:use_candy": {
+    "criteria": {
+      "use_xs_candy": "2025-04-14 00:55:36 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-14 00:34:19 +0000"
