@@ -695,6 +695,7 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "quick_ball": "2025-04-14 22:07:53 +0000",
       "azure_ball": "2025-04-13 22:24:58 +0000",
       "verdant_ball": "2025-04-13 22:25:06 +0000",
       "ultra_ball": "2025-04-13 22:33:16 +0000",
@@ -719,7 +720,10 @@
   "minecraft:adventure/adventuring_time": {
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-14 02:21:42 +0000",
+      "minecraft:old_growth_pine_taiga": "2025-04-14 22:12:53 +0000",
+      "minecraft:deep_ocean": "2025-04-14 22:15:45 +0000",
       "minecraft:frozen_river": "2025-04-14 01:37:58 +0000",
+      "minecraft:birch_forest": "2025-04-14 22:16:49 +0000",
       "minecraft:wooded_badlands": "2025-04-14 21:20:29 +0000",
       "minecraft:badlands": "2025-04-14 21:34:04 +0000",
       "minecraft:beach": "2025-04-13 21:29:31 +0000",
@@ -736,6 +740,8 @@
       "minecraft:frozen_ocean": "2025-04-14 01:43:01 +0000",
       "minecraft:desert": "2025-04-14 21:20:24 +0000",
       "minecraft:jungle": "2025-04-14 00:09:02 +0000",
+      "minecraft:ocean": "2025-04-14 22:13:01 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-14 22:17:00 +0000",
       "minecraft:snowy_beach": "2025-04-14 01:39:23 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-14 21:36:16 +0000",
       "minecraft:flower_forest": "2025-04-13 21:26:23 +0000",
@@ -2615,15 +2621,63 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/ancient_poke_ball": {
+    "criteria": {
+      "has_tumblestone": "2025-04-14 22:10:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-04-14 21:00:24 +0000"
     },
     "done": true
   },
+  "cobblemon:recipes/balls/ancient_great_ball": {
+    "criteria": {
+      "has_tumblestone": "2025-04-14 22:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/yellow_dye_from_dandelion": {
+    "criteria": {
+      "has_dandelion": "2025-04-14 22:14:36 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/loaded_dice": {
+    "criteria": {
+      "has_ball": "2025-04-14 22:18:21 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_tumblestone": {
+    "criteria": {
+      "check_inv": "2025-04-14 22:10:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_citrine_ball": {
+    "criteria": {
+      "has_tumblestone": "2025-04-14 22:10:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_roseate_ball": {
+    "criteria": {
+      "has_tumblestone": "2025-04-14 22:10:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-04-14 21:00:34 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/decorated_pot_simple": {
+    "criteria": {
+      "has_brick": "2025-04-14 22:10:20 +0000"
     },
     "done": true
   },
@@ -2639,11 +2693,29 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/ancient_slate_ball": {
+    "criteria": {
+      "has_tumblestone": "2025-04-14 22:10:26 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/consumables/fine_remedy": {
     "criteria": {
       "has_remedy": "2025-04-14 21:23:27 +0000"
     },
     "done": true
+  },
+  "cobblemon:recipes/balls/ancient_ultra_ball": {
+    "criteria": {
+      "has_tumblestone": "2025-04-14 22:10:26 +0000"
+    },
+    "done": true
+  },
+  "minecraft:adventure/salvage_sherd": {
+    "criteria": {
+      "has_sherd": "2025-04-14 22:10:20 +0000"
+    },
+    "done": false
   },
   "sophisticatedbackpacks:recipes/misc/upgrade_base": {
     "criteria": {
@@ -2669,9 +2741,33 @@
     },
     "done": true
   },
+  "cobblemon:recipes/balls/ancient_azure_ball": {
+    "criteria": {
+      "has_tumblestone": "2025-04-14 22:10:26 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/gold_backpack": {
     "criteria": {
       "has_iron_backpack": "2025-04-14 20:59:33 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_ivory_ball": {
+    "criteria": {
+      "has_tumblestone": "2025-04-14 22:10:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/balls/ancient_verdant_ball": {
+    "criteria": {
+      "has_tumblestone": "2025-04-14 22:10:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/blocks/tumblestone_block": {
+    "criteria": {
+      "has_tumblestone": "2025-04-14 22:10:26 +0000"
     },
     "done": true
   },

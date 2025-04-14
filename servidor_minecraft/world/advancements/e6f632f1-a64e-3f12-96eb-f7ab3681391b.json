@@ -2455,6 +2455,7 @@
   },
   "cobblemon:obtain_all_berries": {
     "criteria": {
+      "obtain_persim_berry": "2025-04-14 22:21:37 +0000",
       "obtain_oran_berry": "2025-04-13 23:11:00 +0000"
     },
     "done": false
@@ -2573,9 +2574,21 @@
     },
     "done": true
   },
+  "megamons:gen1_12_pidgeotite_stone": {
+    "criteria": {
+      "has_cut_pidgeotite": "2025-04-14 22:09:09 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/carpenters_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
+    },
+    "done": true
+  },
+  "megamons:gen1_megastone": {
+    "criteria": {
+      "has_any_gen1_stone": "2025-04-14 22:09:09 +0000"
     },
     "done": true
   },
@@ -2615,6 +2628,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit": {
+    "criteria": {
+      "has_rabbit": "2025-04-14 22:15:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
@@ -2639,6 +2658,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/food/cooked_rabbit_from_smoking": {
+    "criteria": {
+      "has_rabbit": "2025-04-14 22:15:23 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/tinkering_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
@@ -2654,6 +2679,12 @@
   "sophisticatedbackpacks:recipes/misc/filter_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/food/cooked_rabbit_from_campfire_cooking": {
+    "criteria": {
+      "has_rabbit": "2025-04-14 22:15:23 +0000"
     },
     "done": true
   },
@@ -2801,6 +2832,12 @@
     },
     "done": true
   },
+  "megamons:gen3_02_gardevoirite_stone": {
+    "criteria": {
+      "has_cut_gardevoirite": "2025-04-14 22:09:12 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
     "criteria": {
       "has_andesite": "2025-04-14 21:15:58 +0000"
@@ -2831,6 +2868,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-14 22:15:23 +0000"
+    },
+    "done": true
+  },
   "megamons:recipes/misc/cut_pidgeotite_from_raw_pidgeotite_stonecutting": {
     "criteria": {
       "has_raw_pidgeotite": "2025-04-14 21:57:06 +0000"
@@ -2840,6 +2883,12 @@
   "cobblemon:recipes/held/never_melt_ice_using_stone": {
     "criteria": {
       "has_ice": "2025-04-14 20:53:28 +0000"
+    },
+    "done": true
+  },
+  "megamons:gen3_megastone": {
+    "criteria": {
+      "has_any_gen3_stone": "2025-04-14 22:09:12 +0000"
     },
     "done": true
   },

@@ -8,12 +8,12 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 7,
+    "totalCaptureCount": 8,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 3,
-    "totalBattleVictoryCount": 60,
+    "totalEvolvedCount": 4,
+    "totalBattleVictoryCount": 67,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 60,
+    "totalPvWBattleVictoryCount": 67,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -21,8 +21,8 @@
       "fire": 1,
       "bug": 1,
       "water": 2,
-      "normal": 4,
-      "flying": 2,
+      "normal": 5,
+      "flying": 3,
       "ice": 1
     },
     "totalDefeatedCounts": {
@@ -43,7 +43,7 @@
       "cobblemon:oddish": 1,
       "cobblemon:bunnelby": 3,
       "cobblemon:taillow": 3,
-      "cobblemon:sentret": 1,
+      "cobblemon:sentret": 4,
       "cobblemon:swellow": 1,
       "cobblemon:lechonk": 2,
       "cobblemon:dachsbun": 1,
@@ -58,7 +58,10 @@
       "cobblemon:arcanine": 1,
       "cobblemon:slowpoke": 1,
       "cobblemon:tinkatink": 2,
-      "cobblemon:pineco": 1
+      "cobblemon:pineco": 1,
+      "cobblemon:pidove": 1,
+      "cobblemon:chatot": 1,
+      "cobblemon:nuzleaf": 1
     },
     "aspectsCollected": {}
   }

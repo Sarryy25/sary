@@ -309,6 +309,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_feather": "2025-04-14 22:16:19 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/combat/golden_helmet": {
     "criteria": {
       "has_gold_ingot": "2025-04-14 22:06:43 +0000"
@@ -1164,9 +1170,16 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-14 22:12:52 +0000",
+      "minecraft:deep_ocean": "2025-04-14 22:15:06 +0000",
+      "minecraft:birch_forest": "2025-04-14 22:16:58 +0000",
       "minecraft:beach": "2025-04-14 20:56:25 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-14 22:21:23 +0000",
       "minecraft:river": "2025-04-14 20:57:37 +0000",
       "minecraft:cold_ocean": "2025-04-14 21:43:36 +0000",
+      "minecraft:ocean": "2025-04-14 22:13:01 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-14 22:17:43 +0000",
+      "minecraft:old_growth_birch_forest": "2025-04-14 22:12:55 +0000",
       "minecraft:plains": "2025-04-14 20:48:58 +0000"
     },
     "done": false
@@ -1241,6 +1254,8 @@
     "criteria": {
       "cooked_mutton": "2025-04-14 21:01:48 +0000",
       "cooked_beef": "2025-04-14 21:57:51 +0000",
+      "beef": "2025-04-14 22:14:49 +0000",
+      "mutton": "2025-04-14 22:16:51 +0000",
       "bread": "2025-04-14 21:44:32 +0000",
       "glow_berries": "2025-04-14 21:46:09 +0000",
       "cooked_chicken": "2025-04-14 21:51:45 +0000"
