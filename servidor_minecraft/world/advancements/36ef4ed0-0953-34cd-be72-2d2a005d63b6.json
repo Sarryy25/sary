@@ -718,16 +718,24 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:snowy_slopes": "2025-04-14 02:21:42 +0000",
+      "minecraft:frozen_river": "2025-04-14 01:37:58 +0000",
       "minecraft:beach": "2025-04-13 21:29:31 +0000",
       "minecraft:mangrove_swamp": "2025-04-14 00:05:07 +0000",
       "minecraft:sparse_jungle": "2025-04-14 00:04:53 +0000",
       "minecraft:river": "2025-04-13 21:24:58 +0000",
+      "minecraft:snowy_plains": "2025-04-14 01:37:51 +0000",
+      "minecraft:grove": "2025-04-14 02:23:16 +0000",
       "minecraft:cold_ocean": "2025-04-14 00:49:34 +0000",
       "minecraft:forest": "2025-04-13 21:39:43 +0000",
       "minecraft:deep_cold_ocean": "2025-04-14 00:49:44 +0000",
+      "minecraft:ice_spikes": "2025-04-14 01:38:06 +0000",
+      "minecraft:frozen_ocean": "2025-04-14 01:43:01 +0000",
       "minecraft:jungle": "2025-04-14 00:09:02 +0000",
+      "minecraft:snowy_beach": "2025-04-14 01:39:23 +0000",
       "minecraft:flower_forest": "2025-04-13 21:26:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-14 00:31:21 +0000",
+      "minecraft:deep_dark": "2025-04-14 02:14:34 +0000",
       "minecraft:plains": "2025-04-13 21:24:38 +0000"
     },
     "done": false
@@ -2389,6 +2397,138 @@
   "cobblemon:trade_pokemon": {
     "criteria": {
       "trade": "2025-04-14 01:29:59 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2025-04-14 01:40:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/heal_powder": {
+    "criteria": {
+      "has_herb": "2025-04-14 01:40:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/revive": {
+    "criteria": {
+      "has_herb": "2025-04-14 01:40:26 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/miracle_seed": {
+    "criteria": {
+      "has_leaf": "2025-04-14 01:48:53 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_gardevoirite_from_raw_gardevoirite_stonecutting": {
+    "criteria": {
+      "has_raw_gardevoirite": "2025-04-14 01:49:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/icy_rock": {
+    "criteria": {
+      "has_stone": "2025-04-14 01:55:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice_using_stone": {
+    "criteria": {
+      "has_ice": "2025-04-14 01:55:45 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice": {
+    "criteria": {
+      "has_the_recipe": "2025-04-14 01:55:45 +0000"
+    },
+    "done": true
+  },
+  "megamons:key_stone": {
+    "criteria": {
+      "has_key_stone": "2025-04-14 02:30:27 +0000"
+    },
+    "done": true
+  },
+  "megamons:mega_cuff": {
+    "criteria": {
+      "has_mega_cuff": "2025-04-14 02:30:32 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_sharpedonite_from_raw_sharpedonite_stonecutting": {
+    "criteria": {
+      "has_raw_sharpedonite": "2025-04-14 02:12:27 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_steelixite_from_raw_steelixite_stonecutting": {
+    "criteria": {
+      "has_raw_steelixite": "2025-04-14 02:19:51 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_charizarditex_from_raw_charizarditex_stonecutting": {
+    "criteria": {
+      "has_raw_charizarditex": "2025-04-14 02:27:17 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_garchompite_from_raw_garchompite_stonecutting": {
+    "criteria": {
+      "has_raw_garchompite": "2025-04-14 02:15:14 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_tyranitarite_from_raw_tyranitarite_stonecutting": {
+    "criteria": {
+      "has_raw_tyranitarite": "2025-04-14 02:14:41 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_venusaurite_from_raw_venusaurite_stonecutting": {
+    "criteria": {
+      "has_raw_venusaurite": "2025-04-14 02:23:05 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_kangaskhanite_from_raw_kangaskhanite_stonecutting": {
+    "criteria": {
+      "has_raw_kangaskhanite": "2025-04-14 02:09:24 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_blastoisinite_from_raw_blastoisinite_stonecutting": {
+    "criteria": {
+      "has_raw_blastoisinite": "2025-04-14 02:23:33 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_pinsirite_from_raw_pinsirite_stonecutting": {
+    "criteria": {
+      "has_raw_pinsirite": "2025-04-14 02:11:29 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_scizorite_from_raw_scizorite_stonecutting": {
+    "criteria": {
+      "has_raw_scizorite": "2025-04-14 02:17:22 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_galladite_from_raw_galladite_stonecutting": {
+    "criteria": {
+      "has_raw_galladite": "2025-04-14 02:23:48 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_sablenite_from_raw_sablenite_stonecutting": {
+    "criteria": {
+      "has_raw_sablenite": "2025-04-14 02:19:08 +0000"
     },
     "done": true
   },

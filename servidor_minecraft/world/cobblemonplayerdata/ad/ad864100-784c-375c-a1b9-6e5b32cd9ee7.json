@@ -8,12 +8,12 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 14,
+    "totalCaptureCount": 15,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 68,
+    "totalBattleVictoryCount": 70,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 67,
+    "totalPvWBattleVictoryCount": 69,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 3,
@@ -21,13 +21,13 @@
       "water": 2,
       "normal": 5,
       "flying": 3,
-      "fairy": 1,
+      "fairy": 2,
       "fighting": 1,
       "psychic": 1,
       "fire": 1,
       "dragon": 1,
       "ghost": 3,
-      "steel": 2,
+      "steel": 3,
       "poison": 1
     },
     "totalDefeatedCounts": {
@@ -56,7 +56,8 @@
       "cobblemon:lillipup": 1,
       "cobblemon:dachsbun": 1,
       "cobblemon:koffing": 1,
-      "cobblemon:arcanine": 1
+      "cobblemon:arcanine": 1,
+      "cobblemon:murkrow": 1
     },
     "aspectsCollected": {}
   }
