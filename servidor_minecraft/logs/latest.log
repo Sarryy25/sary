@@ -883,3 +883,73 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Apr2025 20:51:29.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> ta bien
 [14Apr2025 20:51:30.928] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> OEEE
 [14Apr2025 20:51:33.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> mawilita y blazikenita
+[14Apr2025 20:51:53.281] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> God
+[14Apr2025 20:51:57.005] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WITHERMONSTER76 has made the advancement [Isn't It Iron Pick]
+[14Apr2025 20:52:05.394] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> puedo agarrar diamantes??
+[14Apr2025 20:52:18.809] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> que si
+[14Apr2025 20:52:20.886] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=-47, z=-654} BlockPos{x=268, y=-46, z=-654}
+[14Apr2025 20:52:22.080] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=266, y=-47, z=-654} BlockPos{x=267, y=-48, z=-654}
+[14Apr2025 20:52:22.129] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=267, y=-47, z=-654} BlockPos{x=267, y=-48, z=-654}
+[14Apr2025 20:52:23.392] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WITHERMONSTER76 has made the advancement [Diamonds!]
+[14Apr2025 20:52:28.260] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WITHERMONSTER76 has made the advancement [Cover Me with Diamonds]
+[14Apr2025 20:52:29.015] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> es mas tenga
+[14Apr2025 20:53:55.983] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: bb1b5d62-2ed5-430c-a890-43902fa544b6
+[14Apr2025 20:53:55.983] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: bb1b5d62-2ed5-430c-a890-43902fa544b6
+[14Apr2025 20:54:20.502] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pipexdd7: Teleported Lawrencexf to Pipexdd7]
+[14Apr2025 20:54:41.739] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=271, y=-42, z=-591} BlockPos{x=388, y=64, z=-693}
+[14Apr2025 20:55:00.939] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WITHERMONSTER76 has made the advancement [A New Friend!]
+[14Apr2025 20:57:04.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> 2
+[14Apr2025 20:57:35.029] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WITHERMONSTER76 has made the advancement [Very Berry]
+[14Apr2025 20:58:19.382] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Juan19807 lost connection: Disconnected
+[14Apr2025 20:58:19.382] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan19807 left the game
+[14Apr2025 20:58:19.385] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 09e89e0a-18ac-43fb-9c66-302e6a4e434d
+[14Apr2025 20:58:19.385] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 09e89e0a-18ac-43fb-9c66-302e6a4e434d
+[14Apr2025 20:59:06.448] [Server thread/INFO] [net.minecraft.server.players.PlayerList/]: Juan19807[/127.0.110.255:59971] logged in with entity id 6647 at (385.6139329431001, 70.0, -653.8597491508503)
+[14Apr2025 20:59:06.471] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan19807 joined the game
+[14Apr2025 20:59:45.280] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Como le coloco artefactos
+[14Apr2025 20:59:54.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> shift click derecho
+[14Apr2025 20:59:56.589] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> te agachas y click
+[14Apr2025 21:00:02.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> si
+[14Apr2025 21:00:10.578] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> se m hace
+[14Apr2025 21:00:14.047] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> q habian 3 stack d hierro
+[14Apr2025 21:00:17.083] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> y veo 0
+[14Apr2025 21:00:28.630] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> n[o es bait
+[14Apr2025 21:00:31.213] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> NO ES BAIT
+[14Apr2025 21:00:42.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> nocua pvp o q
+[14Apr2025 21:00:47.501] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Dice que ta preparado pa evolucionar
+[14Apr2025 21:00:50.954] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Que hago??
+[14Apr2025 21:02:57.977] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: ee56a328-b6ba-4cc0-96ab-8ee7b7ed93da
+[14Apr2025 21:02:57.978] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: ee56a328-b6ba-4cc0-96ab-8ee7b7ed93da
+[14Apr2025 21:05:14.980] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lawrencexf has made the advancement [There's a Leek in the Boat!]
+[14Apr2025 21:05:19.960] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Como evoluciono a chimchar?
+[14Apr2025 21:05:32.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan19807> ya le aparece para evolucionar?
+[14Apr2025 21:05:47.891] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan19807> nocua
+[14Apr2025 21:05:52.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> donde sale?
+[14Apr2025 21:05:55.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan19807> dale a la M
+[14Apr2025 21:05:57.635] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WITHERMONSTER76 has made the advancement [Hard Work and Dedication]
+[14Apr2025 21:05:59.843] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan19807> eso
+[14Apr2025 21:06:02.927] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> :O
+[14Apr2025 21:07:47.529] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Como cambio de pokemon que quiero sacar?
+[14Apr2025 21:07:49.992] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pipexdd7: Applied effect Haste to 4 targets]
+[14Apr2025 21:07:58.206] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> teclas
+[14Apr2025 21:08:00.058] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> y ahi te sale
+[14Apr2025 21:08:04.028] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan19807> con el arriba y abajo de las teclitas pequeñas
+[14Apr2025 21:08:12.083] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 600a1362-186c-4e6a-9a22-404167220460
+[14Apr2025 21:08:12.083] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 600a1362-186c-4e6a-9a22-404167220460
+[14Apr2025 21:09:24.763] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=28, z=-713} BlockPos{x=268, y=28, z=-714}
+[14Apr2025 21:09:24.814] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=28, z=-713} BlockPos{x=268, y=28, z=-714}
+[14Apr2025 21:09:24.865] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=268, y=28, z=-713} BlockPos{x=268, y=28, z=-714}
+[14Apr2025 21:10:37.730] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 9bd2bd39-2ebc-4ead-9c6c-cee1a9d50406
+[14Apr2025 21:10:37.730] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 9bd2bd39-2ebc-4ead-9c6c-cee1a9d50406
+[14Apr2025 21:11:00.258] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=19, z=-704} BlockPos{x=304, y=20, z=-704}
+[14Apr2025 21:11:00.312] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=19, z=-704} BlockPos{x=304, y=20, z=-704}
+[14Apr2025 21:11:00.359] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=19, z=-704} BlockPos{x=304, y=20, z=-704}
+[14Apr2025 21:11:00.411] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=19, z=-704} BlockPos{x=304, y=20, z=-704}
+[14Apr2025 21:11:00.460] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=19, z=-704} BlockPos{x=304, y=20, z=-704}
+[14Apr2025 21:11:00.514] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=19, z=-704} BlockPos{x=304, y=20, z=-704}
+[14Apr2025 21:11:00.562] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=19, z=-704} BlockPos{x=304, y=20, z=-704}
+[14Apr2025 21:11:00.609] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=19, z=-704} BlockPos{x=304, y=20, z=-704}
+[14Apr2025 21:11:00.663] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=19, z=-704} BlockPos{x=304, y=20, z=-704}
+[14Apr2025 21:11:00.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=19, z=-704} BlockPos{x=304, y=20, z=-704}
+[14Apr2025 21:11:36.278] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b797d54f-9671-4f52-a6fb-28af1fc4d3a1
+[14Apr2025 21:11:36.279] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b797d54f-9671-4f52-a6fb-28af1fc4d3a1
