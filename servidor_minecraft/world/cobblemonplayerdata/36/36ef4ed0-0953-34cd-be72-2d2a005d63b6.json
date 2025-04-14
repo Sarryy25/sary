@@ -8,28 +8,33 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 3,
+    "totalCaptureCount": 7,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 2,
-    "totalBattleVictoryCount": 35,
+    "totalEvolvedCount": 3,
+    "totalBattleVictoryCount": 47,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 35,
+    "totalPvWBattleVictoryCount": 47,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 0,
     "totalTypeCaptureCounts": {
       "dark": 1,
       "normal": 1,
-      "ground": 1,
+      "ground": 2,
       "steel": 1,
-      "fire": 1
+      "fire": 1,
+      "poison": 1,
+      "dragon": 1,
+      "ghost": 1,
+      "fighting": 1,
+      "rock": 1
     },
     "totalDefeatedCounts": {
-      "cobblemon:caterpie": 1,
+      "cobblemon:caterpie": 2,
       "cobblemon:taillow": 4,
       "cobblemon:rookidee": 1,
       "cobblemon:zigzagoon": 2,
-      "cobblemon:sentret": 2,
+      "cobblemon:sentret": 3,
       "cobblemon:patrat": 1,
       "cobblemon:rattata": 2,
       "cobblemon:wingull": 1,
@@ -45,7 +50,13 @@
       "cobblemon:bouffalant": 1,
       "cobblemon:crabrawler": 2,
       "cobblemon:ponyta": 1,
-      "cobblemon:fidough": 1
+      "cobblemon:fidough": 1,
+      "cobblemon:mudbray": 1,
+      "cobblemon:magikarp": 1,
+      "cobblemon:woobat": 1,
+      "cobblemon:pelipper": 1,
+      "cobblemon:aipom": 1,
+      "cobblemon:weedle": 1
     },
     "aspectsCollected": {}
   }
