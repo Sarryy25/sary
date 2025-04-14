@@ -8,12 +8,12 @@
   "battleTheme": "cobblemon:battle.pvp.default",
   "extraData": {},
   "advancementData": {
-    "totalCaptureCount": 4,
+    "totalCaptureCount": 5,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 5,
-    "totalBattleVictoryCount": 16,
+    "totalBattleVictoryCount": 18,
     "totalPvPBattleVictoryCount": 1,
-    "totalPvWBattleVictoryCount": 15,
+    "totalPvWBattleVictoryCount": 17,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -21,7 +21,9 @@
       "bug": 2,
       "electric": 1,
       "flying": 2,
-      "normal": 1
+      "normal": 1,
+      "steel": 1,
+      "fairy": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:snubbull": 1,
@@ -31,7 +33,8 @@
       "cobblemon:wooloo": 1,
       "cobblemon:oinkologne": 1,
       "cobblemon:stonjourner": 1,
-      "cobblemon:pidove": 1
+      "cobblemon:pidove": 1,
+      "cobblemon:krabby": 1
     },
     "aspectsCollected": {
       "cobblemon:vivillon": [

@@ -720,10 +720,13 @@
     "criteria": {
       "minecraft:snowy_slopes": "2025-04-14 02:21:42 +0000",
       "minecraft:frozen_river": "2025-04-14 01:37:58 +0000",
+      "minecraft:wooded_badlands": "2025-04-14 21:20:29 +0000",
+      "minecraft:badlands": "2025-04-14 21:34:04 +0000",
       "minecraft:beach": "2025-04-13 21:29:31 +0000",
       "minecraft:mangrove_swamp": "2025-04-14 00:05:07 +0000",
       "minecraft:sparse_jungle": "2025-04-14 00:04:53 +0000",
       "minecraft:river": "2025-04-13 21:24:58 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-14 21:36:01 +0000",
       "minecraft:snowy_plains": "2025-04-14 01:37:51 +0000",
       "minecraft:grove": "2025-04-14 02:23:16 +0000",
       "minecraft:cold_ocean": "2025-04-14 00:49:34 +0000",
@@ -731,8 +734,10 @@
       "minecraft:deep_cold_ocean": "2025-04-14 00:49:44 +0000",
       "minecraft:ice_spikes": "2025-04-14 01:38:06 +0000",
       "minecraft:frozen_ocean": "2025-04-14 01:43:01 +0000",
+      "minecraft:desert": "2025-04-14 21:20:24 +0000",
       "minecraft:jungle": "2025-04-14 00:09:02 +0000",
       "minecraft:snowy_beach": "2025-04-14 01:39:23 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-14 21:36:16 +0000",
       "minecraft:flower_forest": "2025-04-13 21:26:23 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-14 00:31:21 +0000",
       "minecraft:deep_dark": "2025-04-14 02:14:34 +0000",
@@ -2592,6 +2597,18 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/emerald": {
+    "criteria": {
+      "has_emerald_block": "2025-04-14 21:21:46 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-04-14 21:41:36 +0000"
+    },
+    "done": true
+  },
   "cobblemon:first_battle_victory": {
     "criteria": {
       "win": "2025-04-14 20:46:36 +0000"
@@ -2610,9 +2627,21 @@
     },
     "done": true
   },
+  "minecraft:story/lava_bucket": {
+    "criteria": {
+      "lava_bucket": "2025-04-14 21:52:35 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-04-14 20:53:28 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/fine_remedy": {
+    "criteria": {
+      "has_remedy": "2025-04-14 21:23:27 +0000"
     },
     "done": true
   },
@@ -2625,6 +2654,18 @@
   "sophisticatedbackpacks:recipes/misc/copper_backpack": {
     "criteria": {
       "has_backpack": "2025-04-14 20:55:58 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/assault_vest": {
+    "criteria": {
+      "has_protector": "2025-04-14 21:23:24 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_remedy": {
+    "criteria": {
+      "check_inv": "2025-04-14 21:23:27 +0000"
     },
     "done": true
   },

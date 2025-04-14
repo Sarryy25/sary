@@ -372,6 +372,7 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
+      "premier_ball": "2025-04-14 22:02:13 +0000",
       "citrine_ball": "2025-04-13 21:27:57 +0000"
     },
     "done": false
@@ -379,7 +380,8 @@
   "cobblemon:craft_all_balls": {
     "criteria": {
       "ultra_ball": "2025-04-13 22:42:14 +0000",
-      "citrine_ball": "2025-04-13 21:27:57 +0000"
+      "citrine_ball": "2025-04-13 21:27:57 +0000",
+      "premier_ball": "2025-04-14 22:02:13 +0000"
     },
     "done": false
   },
@@ -847,6 +849,7 @@
       "minecraft:spider": "2025-04-14 20:52:14 +0000",
       "minecraft:creeper": "2025-04-13 21:44:56 +0000",
       "minecraft:cave_spider": "2025-04-13 21:49:08 +0000",
+      "minecraft:silverfish": "2025-04-14 21:14:09 +0000",
       "minecraft:zombie": "2025-04-13 21:47:16 +0000"
     },
     "done": false
@@ -2492,6 +2495,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/blast_furnace": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-14 22:03:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smoking_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
@@ -2504,9 +2513,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/coarse_dirt": {
+    "criteria": {
+      "has_gravel": "2025-04-14 21:15:17 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:obtain_revival_herb": {
+    "criteria": {
+      "check_inv": "2025-04-14 22:02:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/everlasting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/fletching_table": {
+    "criteria": {
+      "has_flint": "2025-04-14 21:15:19 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:full_party": {
+    "criteria": {
+      "full_party": "2025-04-14 21:23:16 +0000"
     },
     "done": true
   },
@@ -2516,9 +2549,21 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/mossy_stone_bricks_from_vine": {
+    "criteria": {
+      "has_vine": "2025-04-14 21:38:14 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/mason_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite": {
+    "criteria": {
+      "has_diorite": "2025-04-14 21:15:54 +0000"
     },
     "done": true
   },
@@ -2534,15 +2579,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/diorite_slab": {
+    "criteria": {
+      "has_diorite": "2025-04-14 21:15:54 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/agriculture/medicinal_leek_to_magenta_dye": {
     "criteria": {
       "has_leek": "2025-04-14 21:05:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs": {
+    "criteria": {
+      "has_andesite": "2025-04-14 21:15:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/diamond_backpack": {
     "criteria": {
       "has_gold_backpack": "2025-04-14 21:01:20 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/combat/arrow": {
+    "criteria": {
+      "has_flint": "2025-04-14 21:15:19 +0000"
     },
     "done": true
   },
@@ -2555,6 +2618,12 @@
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_starter_tier": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/andesite_wall_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-14 21:15:58 +0000"
     },
     "done": true
   },
@@ -2588,6 +2657,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-14 21:15:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smithing_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
@@ -2597,6 +2672,30 @@
   "sophisticatedbackpacks:recipes/misc/feeding_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/spruce_wood": {
+    "criteria": {
+      "has_log": "2025-04-14 21:21:56 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_steelixite_from_raw_steelixite_stonecutting": {
+    "criteria": {
+      "has_raw_steelixite": "2025-04-14 21:52:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall": {
+    "criteria": {
+      "has_diorite": "2025-04-14 21:15:54 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/heal_powder": {
+    "criteria": {
+      "has_herb": "2025-04-14 22:02:00 +0000"
     },
     "done": true
   },
@@ -2618,6 +2717,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-14 22:03:40 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/netherite_backpack": {
     "criteria": {
       "has_diamond_backpack": "2025-04-14 21:01:30 +0000"
@@ -2630,9 +2735,33 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/smooth_stone_slab_from_smooth_stone_stonecutting": {
+    "criteria": {
+      "has_smooth_stone": "2025-04-14 22:03:40 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-14 21:15:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/stack_upgrade_tier_1": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-14 21:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/mossy_cobblestone_from_vine": {
+    "criteria": {
+      "has_vine": "2025-04-14 21:38:14 +0000"
     },
     "done": true
   },
@@ -2672,15 +2801,39 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-14 21:15:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/smelting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
     },
     "done": true
   },
+  "cobblemon:recipes/held/miracle_seed": {
+    "criteria": {
+      "has_leaf": "2025-04-14 21:19:05 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/backpack": {
     "criteria": {
       "has_leather": "2025-04-14 20:44:22 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-14 21:15:54 +0000"
+    },
+    "done": true
+  },
+  "megamons:recipes/misc/cut_pidgeotite_from_raw_pidgeotite_stonecutting": {
+    "criteria": {
+      "has_raw_pidgeotite": "2025-04-14 21:57:06 +0000"
     },
     "done": true
   },
@@ -2708,15 +2861,45 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/terracotta": {
+    "criteria": {
+      "has_clay_block": "2025-04-14 21:38:00 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/pickup_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
     },
     "done": true
   },
+  "cobblemon:recipes/consumables/revive": {
+    "criteria": {
+      "has_herb": "2025-04-14 22:02:00 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/diorite_wall_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-14 21:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-14 21:15:58 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/jukebox_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite": {
+    "criteria": {
+      "has_stone": "2025-04-14 21:15:54 +0000"
     },
     "done": true
   },
@@ -2732,6 +2915,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/building_blocks/polished_andesite": {
+    "criteria": {
+      "has_andesite": "2025-04-14 21:15:58 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/never_melt_ice": {
     "criteria": {
       "has_the_recipe": "2025-04-14 20:53:28 +0000"
@@ -2744,6 +2933,12 @@
     },
     "done": true
   },
+  "megamons:recipes/misc/cut_slowbronite_from_raw_slowbronite_stonecutting": {
+    "criteria": {
+      "has_raw_slowbronite": "2025-04-14 21:19:21 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/chipped/loom_table_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
@@ -2753,6 +2948,12 @@
   "sophisticatedbackpacks:recipes/misc/pump_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-14 21:15:54 +0000"
     },
     "done": true
   },
@@ -2780,6 +2981,36 @@
     },
     "done": true
   },
+  "minecraft:recipes/decorations/andesite_wall": {
+    "criteria": {
+      "has_andesite": "2025-04-14 21:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/andesite_slab": {
+    "criteria": {
+      "has_andesite": "2025-04-14 21:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_andesite_stairs_from_andesite_stonecutting": {
+    "criteria": {
+      "has_andesite": "2025-04-14 21:15:58 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-14 21:15:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/polished_diorite_slab_from_diorite_stonecutting": {
+    "criteria": {
+      "has_diorite": "2025-04-14 21:15:54 +0000"
+    },
+    "done": true
+  },
   "sophisticatedbackpacks:recipes/misc/tank_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
@@ -2789,6 +3020,12 @@
   "sophisticatedbackpacks:recipes/misc/crafting_upgrade": {
     "criteria": {
       "has_upgrade_base": "2025-04-14 21:02:15 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/diorite_stairs": {
+    "criteria": {
+      "has_diorite": "2025-04-14 21:15:54 +0000"
     },
     "done": true
   },

@@ -953,3 +953,261 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [14Apr2025 21:11:00.711] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=305, y=19, z=-704} BlockPos{x=304, y=20, z=-704}
 [14Apr2025 21:11:36.278] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b797d54f-9671-4f52-a6fb-28af1fc4d3a1
 [14Apr2025 21:11:36.279] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b797d54f-9671-4f52-a6fb-28af1fc4d3a1
+[14Apr2025 21:12:19.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WITHERMONSTER76 has made the advancement [Monster Hunter]
+[14Apr2025 21:13:11.347] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> el legendario vrd?
+[14Apr2025 21:13:20.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> parece mecanica?
+[14Apr2025 21:13:25.357] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> es un legendario
+[14Apr2025 21:13:28.998] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> bait
+[14Apr2025 21:13:31.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> puede q no
+[14Apr2025 21:13:35.994] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> puede q no sea el q creo
+[14Apr2025 21:14:41.241] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> si ve un febas
+[14Apr2025 21:14:42.603] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> gg
+[14Apr2025 21:14:51.362] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d8e396e7-f3b0-4207-b6a9-9cfbd0d3c890
+[14Apr2025 21:14:51.362] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d8e396e7-f3b0-4207-b6a9-9cfbd0d3c890
+[14Apr2025 21:15:15.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=266, y=17, z=-766} BlockPos{x=266, y=16, z=-765}
+[14Apr2025 21:15:16.009] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=266, y=17, z=-766} BlockPos{x=266, y=16, z=-765}
+[14Apr2025 21:15:16.059] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=266, y=17, z=-766} BlockPos{x=266, y=16, z=-765}
+[14Apr2025 21:15:55.992] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: def5dfb3-c08d-4e21-81aa-43f0622f53c7
+[14Apr2025 21:15:55.993] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: def5dfb3-c08d-4e21-81aa-43f0622f53c7
+[14Apr2025 21:17:55.508] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> UN DITTO
+[14Apr2025 21:17:59.044] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Pa criar
+[14Apr2025 21:17:59.865] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> omg
+[14Apr2025 21:19:12.657] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=-6, z=-719} BlockPos{x=380, y=-6, z=-719}
+[14Apr2025 21:19:12.707] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=-6, z=-719} BlockPos{x=380, y=-6, z=-719}
+[14Apr2025 21:19:12.758] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=-6, z=-719} BlockPos{x=380, y=-6, z=-719}
+[14Apr2025 21:19:12.809] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=-6, z=-719} BlockPos{x=380, y=-6, z=-719}
+[14Apr2025 21:19:12.857] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=-6, z=-719} BlockPos{x=380, y=-6, z=-719}
+[14Apr2025 21:19:12.907] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=-6, z=-719} BlockPos{x=380, y=-6, z=-719}
+[14Apr2025 21:19:12.959] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=-6, z=-719} BlockPos{x=380, y=-6, z=-719}
+[14Apr2025 21:19:13.021] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=-6, z=-719} BlockPos{x=380, y=-6, z=-719}
+[14Apr2025 21:19:13.060] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=-6, z=-719} BlockPos{x=380, y=-6, z=-719}
+[14Apr2025 21:19:13.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=381, y=-6, z=-719} BlockPos{x=380, y=-6, z=-719}
+[14Apr2025 21:22:49.196] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3da49d74-2d3e-4980-9cc4-a30481de4fee
+[14Apr2025 21:22:49.196] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 3da49d74-2d3e-4980-9cc4-a30481de4fee
+[14Apr2025 21:23:16.548] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lawrencexf has made the advancement [Full House]
+[14Apr2025 21:23:24.059] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[14Apr2025 21:23:24.075] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[14Apr2025 21:23:24.075] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[14Apr2025 21:23:27.763] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pipexdd7 has made the advancement [Basic Healing]
+[14Apr2025 21:23:46.707] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 76ade98e-64c5-4d8e-ba46-2285bb55ada7
+[14Apr2025 21:23:46.707] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 76ade98e-64c5-4d8e-ba46-2285bb55ada7
+[14Apr2025 21:24:08.606] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> Gible
+[14Apr2025 21:24:13.262] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> es un gordito
+[14Apr2025 21:24:14.404] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> enano
+[14Apr2025 21:24:15.549] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> cute
+[14Apr2025 21:24:31.683] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> estan buscando pseudolegendarios?
+[14Apr2025 21:24:38.765] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Juan19807> maso
+[14Apr2025 21:24:41.844] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> es que solo me falta garchomp xd
+[14Apr2025 21:25:17.000] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.052] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.103] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.153] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.204] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.260] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.306] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.350] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.401] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.453] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.504] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.554] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.601] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.654] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.700] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.754] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.800] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.854] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.903] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:17.954] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:18.001] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=307, y=14, z=-660} BlockPos{x=307, y=15, z=-660}
+[14Apr2025 21:25:56.955] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=308, y=17, z=-662} BlockPos{x=309, y=18, z=-653}
+[14Apr2025 21:25:57.004] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=308, y=17, z=-662} BlockPos{x=309, y=18, z=-653}
+[14Apr2025 21:25:57.105] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=308, y=17, z=-662} BlockPos{x=309, y=18, z=-653}
+[14Apr2025 21:25:57.107] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=308, y=17, z=-662} BlockPos{x=309, y=18, z=-653}
+[14Apr2025 21:25:57.194] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=308, y=17, z=-662} BlockPos{x=309, y=18, z=-653}
+[14Apr2025 21:27:19.779] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> le pueden aumentar el rango al minimapa
+[14Apr2025 21:28:26.501] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: ae9644e8-4b33-48e5-90c8-bdef0bf7aa31
+[14Apr2025 21:28:26.501] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: ae9644e8-4b33-48e5-90c8-bdef0bf7aa31
+[14Apr2025 21:28:49.979] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Como hago pa montar pokemons?
+[14Apr2025 21:28:57.236] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> depende cual sea xd
+[14Apr2025 21:28:57.565] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> m emocione x q pense q el lapras era salvaje
+[14Apr2025 21:29:01.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> Alt iz
+[14Apr2025 21:29:01.307] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> por que no todos los t ipos te dejan
+[14Apr2025 21:29:05.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> Alt izquierdo
+[14Apr2025 21:29:48.256] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Y si hacen veloz bolas??
+[14Apr2025 21:30:09.230] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Pa que cuando quieran atrapar pokemons sin pelear no más la tiran y tiene un alto ratio de captura?
+[14Apr2025 21:30:18.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> xq somos unos pobres d mr
+[14Apr2025 21:30:19.685] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> deah
+[14Apr2025 21:30:23.001] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> pues pe en el rancho ahi materiales
+[14Apr2025 21:30:42.388] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> si puedes hacer xd
+[14Apr2025 21:32:32.072] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> una arania
+[14Apr2025 21:32:33.492] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> electrica
+[14Apr2025 21:32:34.654] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> enana
+[14Apr2025 21:33:45.300] [Server thread/WARN] [net.minecraft.server.MinecraftServer/]: Can't keep up! Is the server overloaded? Running 2384ms or 47 ticks behind
+[14Apr2025 21:33:45.430] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 3.72253436249639,-2.9399999999999693,8.975936730424792
+[14Apr2025 21:33:45.431] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 3.895252039942079,-3.2339999999999662,9.367301772318797
+[14Apr2025 21:33:45.432] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 4.07045512888908,-3.527999999999963,9.756976987085636
+[14Apr2025 21:33:45.433] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 4.247979918113515,-3.82199999999996,10.145106169167093
+[14Apr2025 21:33:45.530] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 3.5233723163264585,-5.879999999999939,7.391441344972236
+[14Apr2025 21:33:45.532] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 3.716805580768323,-6.1739999999999355,7.769397544495632
+[14Apr2025 21:33:45.536] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 3.9108832501597135,-6.4679999999999325,8.146996038369025
+[14Apr2025 21:33:45.613] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -3.6857027433297844,5.585999999999942,-7.575348817246322
+[14Apr2025 21:33:45.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -3.6857027433297844,5.585999999999942,-7.575348817246322
+[14Apr2025 21:33:45.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -3.6857027433297844,5.585999999999942,-7.575348817246322
+[14Apr2025 21:33:45.614] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -3.6857027433297844,5.585999999999942,-7.575348817246322
+[14Apr2025 21:33:45.651] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -4.242533837653809,6.761999999999929,-8.720346166375748
+[14Apr2025 21:34:07.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 2.158209949173397,5.585999999999942,8.204555727383195
+[14Apr2025 21:34:32.200] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -6.017834549918234,-2.3519999999999754,7.652128525261787
+[14Apr2025 21:34:32.201] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -6.411312775262559,-2.3519999999999754,8.152455573056386
+[14Apr2025 21:34:32.202] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -6.8045564210101475,-2.3519999999999754,8.652994662431638
+[14Apr2025 21:34:32.203] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -7.196981155534331,-2.3519999999999754,9.15419260872659
+[14Apr2025 21:34:43.551] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 34d94be3-3f28-418d-99b2-3c82ed97bb16
+[14Apr2025 21:34:43.551] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: 34d94be3-3f28-418d-99b2-3c82ed97bb16
+[14Apr2025 21:34:46.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WITHERMONSTER76 has made the advancement [Minty Fresh]
+[14Apr2025 21:34:53.620] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -5.255377611977565,1.4699999999999847,8.559912065313029
+[14Apr2025 21:35:47.057] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -0.09532362746472245,0.0,10.245102121852824
+[14Apr2025 21:35:47.058] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -0.09798573579314507,0.0,10.881744791316123
+[14Apr2025 21:35:57.059] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 5.483010846095112,-4.409999999999954,7.415071323753864
+[14Apr2025 21:35:57.060] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 5.794767455400915,-4.409999999999954,7.698390628047719
+[14Apr2025 21:35:57.062] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 6.108405408297131,-4.409999999999954,7.980229556074164
+[14Apr2025 21:35:57.063] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 6.423661316681091,-4.409999999999954,8.260795360510201
+[14Apr2025 21:35:57.064] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 6.740308666784358,-4.409999999999954,8.540266278658919
+[14Apr2025 21:35:59.516] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: be2e77fe-752b-43e3-a1ab-485731ba6acb
+[14Apr2025 21:35:59.516] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: be2e77fe-752b-43e3-a1ab-485731ba6acb
+[14Apr2025 21:36:06.229] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 7.8726711179515405,0.0,6.600543780375119
+[14Apr2025 21:36:06.230] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 8.363558294131508,0.0,7.005352800946412
+[14Apr2025 21:36:06.231] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 8.854607053207928,0.0,7.41004822356922
+[14Apr2025 21:36:06.232] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 9.345794773574653,0.0,7.814645951955981
+[14Apr2025 21:36:06.233] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 9.83710200065184,0.0,8.219159663300161
+[14Apr2025 21:36:28.148] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1655, y=64, z=1950} but found not block entity block Block{minecraft:air} at location
+[14Apr2025 21:36:28.148] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1655, y=64, z=1950}
+[14Apr2025 21:36:28.148] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1655, y=63, z=1949} but found not block entity block Block{minecraft:air} at location
+[14Apr2025 21:36:28.148] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1655, y=63, z=1949}
+[14Apr2025 21:36:28.148] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1655, y=64, z=1951} but found not block entity block Block{minecraft:air} at location
+[14Apr2025 21:36:28.148] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1655, y=64, z=1951}
+[14Apr2025 21:36:28.148] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=-1654, y=64, z=1951} but found not block entity block Block{minecraft:air} at location
+[14Apr2025 21:36:28.149] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=-1654, y=64, z=1951}
+[14Apr2025 21:36:39.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -2.5246653042431717,4.116000000000156,8.974525212608569
+[14Apr2025 21:36:39.819] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -2.7421003151519017,4.410000000000167,9.57031736771114
+[14Apr2025 21:36:39.820] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -2.961595716329839,4.704000000000178,10.16569657591981
+[14Apr2025 21:36:39.821] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -3.182863053139272,4.998000000000189,10.760720649800305
+[14Apr2025 21:36:39.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -3.405654254591809,5.2920000000002005,11.355439308158566
+[14Apr2025 21:36:39.822] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -3.629755979637366,5.586000000000212,11.94989530916746
+[14Apr2025 21:36:56.954] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -0.6545296391548163,0.0,10.247561189814405
+[14Apr2025 21:37:04.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 0.8306024045757567,0.0,-10.22961112859457
+[14Apr2025 21:37:04.069] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 0.8831320628339654,0.0,-10.823642774421614
+[14Apr2025 21:39:11.008] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> el tiene uno
+[14Apr2025 21:39:41.112] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=479, y=-11, z=-710} BlockPos{x=478, y=-11, z=-710}
+[14Apr2025 21:41:29.161] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> Y
+[14Apr2025 21:41:36.353] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pipexdd7 has made the advancement [Full House]
+[14Apr2025 21:42:30.050] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> Pov no me quedan pokeballs y esta a mi lado
+[14Apr2025 21:42:38.510] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> yo le doy
+[14Apr2025 21:42:52.991] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pipexdd7: Teleported Pipexdd7 to 382.500000, 70.500000, -627.500000]
+[14Apr2025 21:43:43.188] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> baja conmigo
+[14Apr2025 21:44:06.989] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WITHERMONSTER76 has made the advancement [Stone Age]
+[14Apr2025 21:44:24.135] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> no me lo va a creer
+[14Apr2025 21:44:26.633] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pipexdd7 fell from a high place
+[14Apr2025 21:44:31.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pipexdd7: Teleported Pipexdd7 to 543.500000, -29.500000, -683.500000]
+[14Apr2025 21:44:39.267] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> No me lo va a creer nada
+[14Apr2025 21:44:46.060] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> un creeper lo revento
+[14Apr2025 21:44:47.438] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> lo mató?
+[14Apr2025 21:45:03.604] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> ci
+[14Apr2025 21:45:08.334] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pipexdd7: Teleported Pipexdd7 to 1094.500000, 76.500000, 3010.500000]
+[14Apr2025 21:45:19.545] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WITHERMONSTER76 has made the advancement [Doing my Part]
+[14Apr2025 21:46:43.390] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> pescando dice
+[14Apr2025 21:47:10.254] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> buscando un mylotic
+[14Apr2025 21:47:13.273] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> milotyc
+[14Apr2025 21:47:15.040] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[14Apr2025 21:47:15.055] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[14Apr2025 21:47:15.067] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[14Apr2025 21:47:18.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> shellos
+[14Apr2025 21:47:35.550] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pipexdd7: Teleported Pipexdd7 to Juan19807]
+[14Apr2025 21:48:03.908] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pipexdd7: Teleported Pipexdd7 to 1094.500000, 76.500000, 3010.500000]
+[14Apr2025 21:48:08.848] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> Shellder
+[14Apr2025 21:49:44.781] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pipexdd7: Teleported Juan19807 to Pipexdd7]
+[14Apr2025 21:51:54.770] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=730, y=-3, z=-747} BlockPos{x=731, y=-2, z=-747}
+[14Apr2025 21:52:35.769] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pipexdd7 has made the advancement [Hot Stuff]
+[14Apr2025 21:53:19.439] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -9.97950179351892,0.0,0.9696315153946671
+[14Apr2025 21:53:19.441] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -10.611133737562113,0.0,0.9941037647140547
+[14Apr2025 21:53:19.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -11.243443572370438,0.0,1.0173971753060869
+[14Apr2025 21:53:19.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -11.876336393236897,0.0,1.039676784592757
+[14Apr2025 21:53:19.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -12.509730582113093,0.0,1.0610845247560974
+[14Apr2025 21:53:19.447] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -13.143555947477921,0.0,1.08174245747432
+[14Apr2025 21:53:19.449] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -13.777752124622793,0.0,1.101755555789623
+[14Apr2025 21:53:19.452] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -14.39670257914122,0.0,1.0776440522022313
+[14Apr2025 21:53:19.454] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -14.995784434740926,0.0,0.9951697904521097
+[14Apr2025 21:53:48.087] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[14Apr2025 21:53:48.096] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[14Apr2025 21:53:48.118] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[14Apr2025 21:53:50.812] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=785, y=-1, z=-750} BlockPos{x=785, y=-4, z=-750}
+[14Apr2025 21:53:50.849] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=785, y=-1, z=-750} BlockPos{x=785, y=-4, z=-750}
+[14Apr2025 21:53:50.911] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=785, y=-1, z=-750} BlockPos{x=785, y=-4, z=-750}
+[14Apr2025 21:53:50.951] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=785, y=-1, z=-750} BlockPos{x=785, y=-4, z=-750}
+[14Apr2025 21:53:51.056] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=785, y=-1, z=-750} BlockPos{x=785, y=-4, z=-750}
+[14Apr2025 21:54:12.699] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=783, y=-11, z=-748} BlockPos{x=783, y=-12, z=-748}
+[14Apr2025 21:54:12.752] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=783, y=-11, z=-748} BlockPos{x=783, y=-12, z=-748}
+[14Apr2025 21:54:12.818] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=783, y=-11, z=-748} BlockPos{x=783, y=-12, z=-748}
+[14Apr2025 21:54:12.864] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=783, y=-11, z=-748} BlockPos{x=783, y=-12, z=-748}
+[14Apr2025 21:54:12.913] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=783, y=-11, z=-748} BlockPos{x=783, y=-12, z=-748}
+[14Apr2025 21:54:19.350] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[14Apr2025 21:54:19.366] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[14Apr2025 21:54:19.506] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[14Apr2025 21:55:11.633] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=776, y=27, z=-721} BlockPos{x=777, y=27, z=-721}
+[14Apr2025 21:55:11.786] [Server thread/WARN] [net.minecraft.server.level.ServerPlayerGameMode/]: Mismatch in destroy block pos: BlockPos{x=779, y=25, z=-721} BlockPos{x=776, y=27, z=-721}
+[14Apr2025 21:56:16.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> si sirve se m hace
+[14Apr2025 21:57:36.509] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pipexdd7: Teleported Pipexdd7 to 382.500000, 70.500000, -627.500000]
+[14Apr2025 21:58:08.118] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> nocua tiene plumas xd?
+[14Apr2025 21:58:24.758] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> nop
+[14Apr2025 21:58:31.097] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WITHERMONSTER76 has made the advancement [Full House]
+[14Apr2025 22:00:12.845] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f5bd57ce-c70f-40bd-b400-cd95d48bb6e3
+[14Apr2025 22:00:12.845] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: f5bd57ce-c70f-40bd-b400-cd95d48bb6e3
+[14Apr2025 22:02:00.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Lawrencexf has made the advancement [Herb your Enthusiasm]
+[14Apr2025 22:02:23.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Vamos a explorar?
+[14Apr2025 22:03:18.209] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> va
+[14Apr2025 22:03:26.897] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> nocua un fa
+[14Apr2025 22:03:36.089] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> quep?
+[14Apr2025 22:03:43.208] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> puede hacerme las rapid valz
+[14Apr2025 22:03:51.211] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> es que ando haciendo otra cosa xdxdxd
+[14Apr2025 22:04:03.833] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Ya miro como se hacen
+[14Apr2025 22:05:55.292] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> tienes oro??
+[14Apr2025 22:05:58.193] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Necesito oro
+[14Apr2025 22:06:11.613] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> cuanto?
+[14Apr2025 22:06:21.155] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> 11
+[14Apr2025 22:07:32.643] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> tomen rapid balls
+[14Apr2025 22:07:49.788] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> a ver
+[14Apr2025 22:07:56.715] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> gachas
+[14Apr2025 22:07:59.187] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> la tiras en primer turno
+[14Apr2025 22:08:00.112] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> va a ir conmigo xd?
+[14Apr2025 22:08:03.437] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> zy
+[14Apr2025 22:08:03.658] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> sisi yo se
+[14Apr2025 22:08:07.140] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> a ver pere
+[14Apr2025 22:08:10.936] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pipexdd7: Teleported Pipexdd7 to 515.500000, 73.500000, 4001.500000]
+[14Apr2025 22:08:46.599] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Pipexdd7: Teleported WITHERMONSTER76 to Pipexdd7]
+[14Apr2025 22:08:48.794] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b78f8a0a-a53a-4753-a8d4-0a90e6c74a9c
+[14Apr2025 22:08:48.794] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: b78f8a0a-a53a-4753-a8d4-0a90e6c74a9c
+[14Apr2025 22:09:02.695] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> en que te ayudo casua
+[14Apr2025 22:09:17.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> quiere una gema hada xd?
+[14Apr2025 22:09:31.108] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> eso es para la teracristalizacion no?
+[14Apr2025 22:09:36.409] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> asie
+[14Apr2025 22:10:26.452] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pipexdd7 has made the advancement [The Rolling Stone]
+[14Apr2025 22:10:52.181] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> beach
+[14Apr2025 22:11:13.948] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> pe ute se puede subir en mi chorizord xd?
+[14Apr2025 22:11:22.888] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> dele click
+[14Apr2025 22:11:25.261] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> no
+[14Apr2025 22:11:25.958] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d58d6f72-8474-4ab2-bc5c-419ca039c00d
+[14Apr2025 22:11:25.959] [Server thread/INFO] [com.cobblemon.mod.common.Cobblemon/]: No battle could be found with the id: d58d6f72-8474-4ab2-bc5c-419ca039c00d
+[14Apr2025 22:11:27.840] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> ya fueron a ala torre?
+[14Apr2025 22:11:30.851] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> a pues si
+[14Apr2025 22:11:34.817] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> suba que nos vamos
+[14Apr2025 22:11:59.744] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> ya
+[14Apr2025 22:12:02.656] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> la idea es buscar a garchomp
+[14Apr2025 22:12:11.751] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> ajá ajá
+[14Apr2025 22:12:13.755] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> o a gible
+[14Apr2025 22:12:22.856] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Lawrencexf> hypno
+[14Apr2025 22:12:23.525] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Y en que bioma se encuentra?
+[14Apr2025 22:12:30.426] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Juan19807 has made the advancement [Not Today, Thank You]
+[14Apr2025 22:12:30.819] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> cualquiera de montaña xd
+[14Apr2025 22:12:32.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 1.043876652984295,1.7639999999999816,10.356078064706708
+[14Apr2025 22:12:32.887] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 1.1006406956571482,1.7639999999999816,10.98335538936044
+[14Apr2025 22:12:32.888] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 1.1618655665946562,1.7639999999999816,11.611023498690884
+[14Apr2025 22:12:32.889] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 1.242783913999233,1.7639999999999816,12.234764619056477
+[14Apr2025 22:12:32.890] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 1.3638848924280182,1.7639999999999816,12.84261430450897

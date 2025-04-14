@@ -394,6 +394,7 @@
       "cooked_porkchop": "2025-04-13 21:45:07 +0000",
       "cooked_mutton": "2025-04-13 21:33:32 +0000",
       "sweet_berries": "2025-04-13 21:27:38 +0000",
+      "cooked_beef": "2025-04-14 22:06:28 +0000",
       "bread": "2025-04-13 23:10:41 +0000"
     },
     "done": false
@@ -565,12 +566,15 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:deep_ocean": "2025-04-14 21:40:02 +0000",
       "minecraft:frozen_river": "2025-04-14 01:37:58 +0000",
       "minecraft:cherry_grove": "2025-04-13 23:50:38 +0000",
+      "minecraft:sunflower_plains": "2025-04-14 21:32:25 +0000",
       "minecraft:beach": "2025-04-13 21:28:54 +0000",
       "minecraft:mangrove_swamp": "2025-04-14 00:02:56 +0000",
       "minecraft:sparse_jungle": "2025-04-14 00:02:34 +0000",
       "minecraft:river": "2025-04-13 22:05:07 +0000",
+      "minecraft:lukewarm_ocean": "2025-04-14 21:43:05 +0000",
       "minecraft:snowy_plains": "2025-04-14 01:37:52 +0000",
       "minecraft:cold_ocean": "2025-04-14 00:49:34 +0000",
       "minecraft:forest": "2025-04-13 22:03:38 +0000",
@@ -578,7 +582,11 @@
       "minecraft:ice_spikes": "2025-04-14 01:38:06 +0000",
       "minecraft:frozen_ocean": "2025-04-14 02:01:05 +0000",
       "minecraft:jungle": "2025-04-14 00:09:08 +0000",
+      "minecraft:ocean": "2025-04-14 21:28:07 +0000",
       "minecraft:snowy_beach": "2025-04-14 01:39:51 +0000",
+      "minecraft:windswept_savanna": "2025-04-14 22:01:05 +0000",
+      "minecraft:deep_lukewarm_ocean": "2025-04-14 21:44:41 +0000",
+      "minecraft:flower_forest": "2025-04-14 21:27:48 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-14 00:31:21 +0000",
       "minecraft:plains": "2025-04-13 21:28:12 +0000"
     },
@@ -2196,15 +2204,135 @@
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-14 21:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-14 21:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-14 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_trapdoor": {
+    "criteria": {
+      "has_planks": "2025-04-14 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-14 21:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-14 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-14 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_stairs": {
+    "criteria": {
+      "has_planks": "2025-04-14 21:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_button": {
+    "criteria": {
+      "has_planks": "2025-04-14 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/dark_oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-14 21:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_fence": {
+    "criteria": {
+      "has_planks": "2025-04-14 21:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dark_oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-14 21:07:50 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_planks": {
     "criteria": {
       "has_log": "2025-04-14 21:07:14 +0000"
     },
     "done": true
   },
+  "minecraft:recipes/redstone/dark_oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-14 21:07:50 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/oak_slab": {
+    "criteria": {
+      "has_planks": "2025-04-14 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-14 22:06:44 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/building_blocks/dark_oak_wood": {
     "criteria": {
       "has_log": "2025-04-14 21:07:14 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_pressure_plate": {
+    "criteria": {
+      "has_planks": "2025-04-14 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/oak_door": {
+    "criteria": {
+      "has_planks": "2025-04-14 22:06:44 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/copper_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-14 21:08:36 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/dark_oak_sign": {
+    "criteria": {
+      "has_planks": "2025-04-14 21:07:50 +0000"
+    },
+    "done": true
+  },
+  "sophisticatedbackpacks:recipes/misc/iron_backpack": {
+    "criteria": {
+      "has_backpack": "2025-04-14 21:08:36 +0000"
     },
     "done": true
   },
