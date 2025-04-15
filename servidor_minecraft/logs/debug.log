@@ -3276,3 +3276,439 @@ com.google.gson.JsonSyntaxException: Expected name to be an item, was unknown st
 [15Apr2025 23:12:54.776] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
 [15Apr2025 23:12:54.777] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
 [15Apr2025 23:13:05.497] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 8.457605237753341,0.0,6.244543033462833
+[15Apr2025 23:13:12.399] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! -1.836758355641905,6.762000000000256,-7.5368193071585665
+[15Apr2025 23:13:24.950] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:13:24.950] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:13:24.956] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:13:30.638] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=west,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=6083, y=205, z=3553}
+[15Apr2025 23:13:54.862] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:13:54.862] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:13:54.863] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:14:02.400] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> un aron o:
+[15Apr2025 23:14:19.532] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> JSJSJSJSJ
+[15Apr2025 23:14:24.912] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:14:24.912] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:14:24.915] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:14:41.080] [Server thread/DEBUG] [Cobbledex/]: Saving 24 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:14:54.962] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:14:54.962] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:14:54.964] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:15:25.012] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:15:25.012] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:15:25.013] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:15:29.423] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=west,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=4995, y=90, z=-2767}
+[15Apr2025 23:15:55.062] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:15:55.062] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:15:55.064] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:16:25.112] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:16:25.112] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:16:25.114] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:16:40.770] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WITHERMONSTER76 has made the advancement [Acquire Hardware]
+[15Apr2025 23:16:54.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: WITHERMONSTER76 has made the advancement [What a Deal!]
+[15Apr2025 23:16:55.162] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:16:55.162] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:16:55.163] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:17:16.781] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Apr2025 23:17:16.786] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Apr2025 23:17:23.245] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> uy un chimchar
+[15Apr2025 23:17:25.212] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:17:25.213] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:17:25.214] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:17:29.693] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> causa
+[15Apr2025 23:17:39.231] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Me ayuda a buscar un deino
+[15Apr2025 23:17:40.847] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> digame pe
+[15Apr2025 23:17:46.912] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> si esta ?
+[15Apr2025 23:17:48.587] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Es en la base del guarden
+[15Apr2025 23:17:51.482] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> :(
+[15Apr2025 23:17:55.262] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:17:55.262] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:17:55.263] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:18:09.659] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> Uys
+[15Apr2025 23:18:13.950] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> ya tiene el lugar ?
+[15Apr2025 23:18:17.177] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> no
+[15Apr2025 23:18:19.958] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> XD
+[15Apr2025 23:18:25.312] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:18:25.312] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:18:25.314] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:18:26.507] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> XDDD
+[15Apr2025 23:18:31.688] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> ademas no c como cambiar el nivel de capa del mapa
+[15Apr2025 23:18:34.585] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Pipipi
+[15Apr2025 23:18:35.730] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> me hubiera dicho hace unos minutos
+[15Apr2025 23:18:41.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> No me deja abrirlo con la M
+[15Apr2025 23:18:41.652] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=east,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=5677, y=64, z=-3105}
+[15Apr2025 23:18:46.282] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Por?
+[15Apr2025 23:18:55.370] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:18:55.370] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:18:55.373] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:19:09.021] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 6.662565552253909,0.0,8.150613548159527
+[15Apr2025 23:19:09.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 7.06313155602038,0.0,8.6431815156634
+[15Apr2025 23:19:09.023] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 7.426092210849674,0.0,9.08954854511012
+[15Apr2025 23:19:09.024] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 7.738238374003231,0.0,9.473424190434343
+[15Apr2025 23:19:13.766] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:19:13.797] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:19:13.812] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:19:15.028] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=south,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=6049, y=69, z=4285}
+[15Apr2025 23:19:25.412] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:19:25.412] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:19:25.413] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:19:55.462] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:19:55.462] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:19:55.462] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:19:58.283] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> tampoco está excadrill
+[15Apr2025 23:20:03.687] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> No está la mayoría
+[15Apr2025 23:20:05.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> :(
+[15Apr2025 23:20:06.602] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> sis
+[15Apr2025 23:20:11.957] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> mañana veo si se pueden meter algunos
+[15Apr2025 23:20:17.391] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> literalmente queria a groudon y no esta
+[15Apr2025 23:20:24.126] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> :(
+[15Apr2025 23:20:25.596] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:20:25.597] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:20:25.598] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:20:34.538] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 9.242660700513625,0.0,-4.685929753842174
+[15Apr2025 23:20:40.096] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> En la real no vienen todas en un solo mod?
+[15Apr2025 23:20:40.483] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=east,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=6045, y=80, z=-3057}
+[15Apr2025 23:20:46.442] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Staraptor (vehicle of WITHERMONSTER76) moved too quickly! -1.6822813669205061,-1.4699999999999847,10.243302006129852
+[15Apr2025 23:20:46.443] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Staraptor (vehicle of WITHERMONSTER76) moved too quickly! -1.785448686694508,-1.7639999999999816,10.871424121586642
+[15Apr2025 23:20:46.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Staraptor (vehicle of WITHERMONSTER76) moved too quickly! -1.8886191418851013,-2.0579999999999785,11.499565326666925
+[15Apr2025 23:20:46.444] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Staraptor (vehicle of WITHERMONSTER76) moved too quickly! -1.9917922935346724,-2.3519999999999754,12.12772294882052
+[15Apr2025 23:20:46.445] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Staraptor (vehicle of WITHERMONSTER76) moved too quickly! -2.094967764140165,-2.6459999999999724,12.755894689658817
+[15Apr2025 23:20:46.446] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Staraptor (vehicle of WITHERMONSTER76) moved too quickly! -2.198145229045622,-2.9399999999999693,13.384078572565159
+[15Apr2025 23:20:48.327] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> nop
+[15Apr2025 23:20:51.885] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> cobblemon tiene unos pocos
+[15Apr2025 23:20:55.562] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:20:55.562] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:20:55.562] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:20:57.647] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> por eso dicen que se esta quedando atras
+[15Apr2025 23:21:01.986] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> ya que pixelmon si tiene todos
+[15Apr2025 23:21:07.911] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> pero webon los diseños de pixelmon son un asco XD
+[15Apr2025 23:21:17.841] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 10.380147632969965,0.0,0.027738745957321953
+[15Apr2025 23:21:17.842] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 11.016818824726215,0.0,0.029459168090397725
+[15Apr2025 23:21:17.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 11.653490023407358,0.0,0.031179615466498944
+[15Apr2025 23:21:17.843] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 12.290161228043871,0.0,0.0329000845513292
+[15Apr2025 23:21:17.844] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 12.92683243780084,0.0,0.0346205723053572
+[15Apr2025 23:21:17.845] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 13.563503651963401,0.0,0.036341076115604665
+[15Apr2025 23:21:17.846] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 14.200174869914918,0.0,0.03806159373380069
+[15Apr2025 23:21:25.612] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:21:25.612] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:21:25.612] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:21:51.498] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 9.585566696047863,-2.3519999999999754,-2.8982882640143544
+[15Apr2025 23:21:51.499] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 10.012989616638151,-2.6459999999999724,-2.9595579394149354
+[15Apr2025 23:21:51.500] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 10.4388802649637,-2.9399999999999693,-3.0237130217933554
+[15Apr2025 23:21:51.560] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=north,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=6431, y=64, z=-3165}
+[15Apr2025 23:21:56.352] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:21:56.352] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:21:56.354] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:22:17.488] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Apr2025 23:22:17.496] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Apr2025 23:22:25.712] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:22:25.712] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:22:25.714] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:22:55.762] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:22:55.762] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:22:55.763] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:23:13.527] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> pe ute necesita templo no xd?
+[15Apr2025 23:23:25.812] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:23:25.812] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:23:25.812] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:23:40.103] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=east,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=7223, y=65, z=-3495}
+[15Apr2025 23:23:46.308] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> ya encontre :v
+[15Apr2025 23:23:50.092] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> quep
+[15Apr2025 23:23:54.301] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> templo
+[15Apr2025 23:23:56.188] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:23:56.188] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:23:56.188] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:24:07.306] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> templo de que
+[15Apr2025 23:24:10.879] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> marino
+[15Apr2025 23:24:11.228] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> warden?
+[15Apr2025 23:24:15.930] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Marino pa q?
+[15Apr2025 23:24:19.739] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> no es ese ?
+[15Apr2025 23:24:25.912] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:24:25.912] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:24:25.914] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:24:26.993] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:24:27.001] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:24:27.039] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:24:29.137] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> el del warden
+[15Apr2025 23:24:31.707] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> AAA
+[15Apr2025 23:24:33.972] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 6.121452186022907,4.703999999999951,-7.151210124251065
+[15Apr2025 23:24:33.973] [Server thread/WARN] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Charizard (vehicle of Pipexdd7) moved too quickly! 6.4923885969219555,4.997999999999948,-7.66266050025979
+[15Apr2025 23:24:36.303] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=east,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=7197, y=109, z=-3669}
+[15Apr2025 23:24:55.962] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:24:55.962] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:24:55.964] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:24:58.315] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> UN PICHU :D
+[15Apr2025 23:25:02.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> JSJSJSJSJ
+[15Apr2025 23:25:26.012] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:25:26.012] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:25:26.012] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:25:56.062] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:25:56.062] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:25:56.062] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:25:56.460] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> tengo ente ball
+[15Apr2025 23:26:25.081] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> ando matando todos los pokemons que quiero sin querer
+[15Apr2025 23:26:26.112] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:26:26.112] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:26:26.114] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:26:26.384] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> :(
+[15Apr2025 23:26:34.210] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> ASKJDHAJSKDHA
+[15Apr2025 23:26:56.162] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:26:56.162] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:26:56.164] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:27:16.816] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Apr2025 23:27:16.824] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Apr2025 23:27:25.696] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=6239, y=64, z=5549} but found not block entity block Block{minecraft:air} at location
+[15Apr2025 23:27:25.697] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=6239, y=64, z=5549}
+[15Apr2025 23:27:25.697] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a DUMMY block entity @ BlockPos{x=6238, y=64, z=5550} but found not block entity block Block{minecraft:air} at location
+[15Apr2025 23:27:25.698] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{minecraft:air} but failed at location BlockPos{x=6238, y=64, z=5550}
+[15Apr2025 23:27:26.212] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:27:26.212] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:27:26.214] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:27:35.802] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:27:35.855] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:27:35.856] [Worker-Main-1/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:27:55.380] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=south,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=6321, y=67, z=5693}
+[15Apr2025 23:27:56.262] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:27:56.262] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:27:56.266] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:28:11.984] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=east,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=7485, y=66, z=-3777}
+[15Apr2025 23:28:18.188] [Server thread/DEBUG] [Cobbledex/]: Saving 25 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:28:22.238] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [468, -247], pos: MutableBlockPos{x=7488, y=-2, z=-3939}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[15Apr2025 23:28:22.238] [Worker-Main-2/ERROR] [net.minecraft.Util/]: Detected setBlock in a far chunk [468, -247], pos: MutableBlockPos{x=7488, y=-1, z=-3939}, status: minecraft:features, currently generating: ResourceKey[minecraft:worldgen/placed_feature / terralith:cave/thermal/dripstone]
+[15Apr2025 23:28:26.312] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:28:26.312] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:28:26.546] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:28:27.832] [Server thread/DEBUG] [Cobbledex/]: Saving 26 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:28:37.815] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:28:37.846] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:28:37.892] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:28:56.362] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:28:56.362] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:28:56.363] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:29:01.691] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=west,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=6435, y=88, z=5377}
+[15Apr2025 23:29:26.444] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:29:26.444] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:29:26.445] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:29:35.135] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=west,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=7795, y=67, z=-4207}
+[15Apr2025 23:29:56.462] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:29:56.462] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:29:56.462] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:30:05.600] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:30:05.691] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:30:05.718] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:30:26.512] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:30:26.512] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:30:26.515] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:30:37.178] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=south,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=7809, y=65, z=-4547}
+[15Apr2025 23:30:52.780] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> Pero es mejor pixelmon no?
+[15Apr2025 23:30:56.562] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:30:56.562] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:30:56.563] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:30:58.337] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> no xd
+[15Apr2025 23:31:02.326] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=east,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=7805, y=67, z=-4801}
+[15Apr2025 23:31:05.700] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> bueno eso ya va en cada quien
+[15Apr2025 23:31:22.598] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> realmente el pixelmon es mas completo pero
+[15Apr2025 23:31:26.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> visualmente es feo
+[15Apr2025 23:31:26.612] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:31:26.612] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:31:26.612] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:31:31.543] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> su jugabilidad es pesima
+[15Apr2025 23:31:35.490] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> y tiene bugs en los bugs
+[15Apr2025 23:31:38.446] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> a :(
+[15Apr2025 23:31:49.302] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> sis , aparte de que pesa un huevo
+[15Apr2025 23:31:55.631] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> literalmente para correrlo toca tener una buena pc
+[15Apr2025 23:31:56.662] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:31:56.662] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:31:56.663] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:32:13.642] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> y eso pasa por las texturas tan malas de los pokemones xd
+[15Apr2025 23:32:16.796] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Apr2025 23:32:16.802] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Apr2025 23:32:21.296] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=north,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=7801, y=71, z=-5191}
+[15Apr2025 23:32:24.057] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=west,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=7875, y=73, z=-5215}
+[15Apr2025 23:32:26.844] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:32:26.844] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:32:26.846] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:32:56.763] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:32:56.763] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:32:56.765] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:33:11.078] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/77324, l='ServerLevel[world]', x=7862.70, y=77.00, z=-5216.50] died, message: 'Villager was slain by Zombie'
+[15Apr2025 23:33:11.497] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> y si coloca en facil el mundo, están apareciendo más mobs que pokemons :(
+[15Apr2025 23:33:25.541] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> esta en facil xd
+[15Apr2025 23:33:26.812] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:33:26.812] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:33:26.812] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:33:37.485] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> :O wtf
+[15Apr2025 23:33:49.133] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Toolsmith'/77299, l='ServerLevel[world]', x=7919.50, y=69.00, z=-5212.70] died, message: 'Toolsmith was slain by Zombie Villager'
+[15Apr2025 23:33:56.862] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:33:56.862] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:33:56.862] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:34:03.691] [Server thread/INFO] [net.minecraft.world.entity.npc.Villager/]: Villager Villager['Villager'/77300, l='ServerLevel[world]', x=7922.49, y=69.00, z=-5211.94] died, message: 'Villager was slain by Zombie'
+[15Apr2025 23:34:05.962] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> asies
+[15Apr2025 23:34:26.912] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:34:26.912] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:34:26.912] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:34:34.089] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=north,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=7759, y=65, z=-5565}
+[15Apr2025 23:34:38.073] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:34:38.105] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:34:38.125] [Worker-Main-3/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:34:39.176] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> ya casi llego a 10k bloques
+[15Apr2025 23:34:56.962] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:34:56.962] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:34:56.966] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:35:25.672] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:35:25.685] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:35:25.711] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:35:27.210] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:35:27.210] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:35:27.210] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:35:27.837] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=south,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=6401, y=71, z=6045}
+[15Apr2025 23:35:57.062] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:35:57.062] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:35:57.065] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:36:07.185] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:36:07.185] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:36:07.208] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:36:09.773] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=east,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=6477, y=89, z=6383}
+[15Apr2025 23:36:27.112] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:36:27.112] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:36:27.113] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:36:53.585] [Server thread/DEBUG] [Cobbledex/]: Saving 27 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:36:57.162] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:36:57.163] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:36:57.166] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:37:16.768] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Apr2025 23:37:16.772] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Apr2025 23:37:27.212] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:37:27.212] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:37:27.212] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:37:57.262] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:37:57.262] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:37:57.262] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:38:27.340] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:38:27.341] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:38:27.341] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:38:49.244] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> papu me voy xd
+[15Apr2025 23:38:57.365] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:38:57.366] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:38:57.370] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:38:58.389] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> weno
+[15Apr2025 23:39:09.557] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <Pipexdd7> besos
+[15Apr2025 23:39:27.412] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:39:27.412] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:39:27.413] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:39:57.462] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:39:57.462] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:39:57.463] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:40:27.516] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:40:27.516] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:40:27.517] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:40:38.635] [Server thread/DEBUG] [Cobbledex/]: Saving 28 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:40:57.562] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:40:57.562] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:40:57.564] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:41:27.612] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:41:27.612] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:41:27.613] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:41:57.662] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:41:57.662] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:41:57.663] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:42:16.780] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Apr2025 23:42:16.787] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Apr2025 23:42:27.712] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:42:27.712] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:42:27.714] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:42:47.235] [Server thread/DEBUG] [Cobbledex/]: Saving 29 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:42:57.762] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:42:57.763] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:42:57.765] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:43:13.033] [Server thread/DEBUG] [Cobbledex/]: Saving 30 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:43:27.812] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:43:27.812] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:43:27.814] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:43:57.862] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:43:57.863] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:43:57.864] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:44:24.683] [Server thread/DEBUG] [Cobbledex/]: Saving 31 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:44:27.912] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:44:27.912] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:44:27.914] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:44:40.231] [Server thread/DEBUG] [Cobbledex/]: Saving 32 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:44:57.962] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:44:57.963] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:44:57.965] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:45:28.012] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:45:28.012] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:45:28.013] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:45:58.062] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:45:58.062] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:45:58.063] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:46:00.429] [Server thread/DEBUG] [Cobbledex/]: Saving 33 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:46:28.112] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:46:28.112] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:46:28.114] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:46:47.629] [Server thread/DEBUG] [Cobbledex/]: Saving 34 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:46:53.694] [Server thread/DEBUG] [Cobbledex/]: Saving 35 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:46:58.162] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:46:58.162] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:46:58.164] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:47:01.083] [Server thread/DEBUG] [Cobbledex/]: Saving 36 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:47:16.761] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Apr2025 23:47:16.766] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Apr2025 23:47:28.212] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:47:28.212] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:47:28.213] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:47:34.536] [Server thread/DEBUG] [Cobbledex/]: Saving 37 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:47:58.262] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:47:58.263] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:47:58.264] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:48:10.045] [Server thread/DEBUG] [Cobbledex/]: Saving 38 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:48:18.827] [Server thread/DEBUG] [Cobbledex/]: Saving 39 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:48:28.312] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:48:28.312] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:48:28.314] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:48:58.362] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:48:58.362] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:48:58.364] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:49:08.134] [Server thread/DEBUG] [Cobbledex/]: Saving 40 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:49:13.344] [Server thread/DEBUG] [Cobbledex/]: Saving 41 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:49:28.412] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:49:28.412] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:49:28.413] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:49:31.579] [Server thread/DEBUG] [Cobbledex/]: Saving 42 entries to /workspaces/sary/servidor_minecraft/./world/./cobbledex-coop.json
+[15Apr2025 23:49:58.462] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:49:58.462] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:49:58.464] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:50:16.586] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> me maté una liligant por accidente :(
+[15Apr2025 23:50:25.982] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> me das velozbolas?
+[15Apr2025 23:50:28.512] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:50:28.512] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:50:28.513] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:50:30.636] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: [Not Secure] <WITHERMONSTER76> así por comandos?
+[15Apr2025 23:50:58.562] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:50:58.562] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:50:58.564] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:51:28.612] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:51:28.612] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:51:28.613] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:51:58.662] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 2 Pokémon stores.
+[15Apr2025 23:51:58.662] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:51:58.664] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 2 Pokémon stores.
+[15Apr2025 23:52:16.762] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: Gathering id map for writing to world save world
+[15Apr2025 23:52:16.767] [Server thread/DEBUG] [net.minecraftforge.common.ForgeHooks/WP]: ID Map collection complete world
+[15Apr2025 23:52:19.728] [Server thread/WARN] [net.minecraft.world.level.chunk.LevelChunk/]: Tried to load a block entity for block Block{cobblemon:pc}[facing=west,on=false,part=top,waterlogged=false] but failed at location BlockPos{x=6147, y=69, z=6721}
+[15Apr2025 23:52:28.712] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:52:28.712] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:52:28.713] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:52:52.483] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:52:52.511] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:52:52.558] [Worker-Main-2/WARN] [net.minecraft.world.level.levelgen.structure.pools.JigsawPlacement/]: Empty or non-existent pool: minecraft:ruins/forest_ruins_gate
+[15Apr2025 23:52:53.931] [Server thread/INFO] [net.minecraft.server.network.ServerGamePacketListenerImpl/]: Pipexdd7 lost connection: Disconnected
+[15Apr2025 23:52:53.932] [Server thread/INFO] [net.minecraft.server.MinecraftServer/]: Pipexdd7 left the game
+[15Apr2025 23:52:58.762] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 0 Pokémon stores.
+[15Apr2025 23:52:58.762] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:52:58.762] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 0 Pokémon stores.
+[15Apr2025 23:53:28.812] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:53:28.812] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:53:28.814] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.
+[15Apr2025 23:53:58.862] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Serializing 1 Pokémon stores.
+[15Apr2025 23:53:58.862] [Server thread/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Queueing save.
+[15Apr2025 23:53:58.863] [pool-4-thread-1/DEBUG] [com.cobblemon.mod.common.Cobblemon/]: Saved 1 Pokémon stores.

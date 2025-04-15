@@ -151,6 +151,14 @@
             "status": "SEEN",
             "discoveredTimestamp": 1744758617703
           }
+        },
+        "aron": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744758881079,
+            "caughtTimestamp": 1744758881079
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -163,12 +171,12 @@
     }
   },
   "advancementData": {
-    "totalCaptureCount": 14,
+    "totalCaptureCount": 15,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 148,
+    "totalBattleVictoryCount": 150,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 145,
+    "totalPvWBattleVictoryCount": 147,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 4,
@@ -176,13 +184,13 @@
       "dark": 1,
       "normal": 2,
       "ground": 3,
-      "steel": 1,
+      "steel": 2,
       "fire": 2,
       "poison": 3,
       "dragon": 1,
       "ghost": 1,
       "fighting": 1,
-      "rock": 2,
+      "rock": 3,
       "electric": 1,
       "psychic": 1,
       "flying": 2,
@@ -227,7 +235,7 @@
       "cobblemon:growlithe": 2,
       "cobblemon:tandemaus": 1,
       "cobblemon:snorunt": 1,
-      "cobblemon:gimmighoul": 9,
+      "cobblemon:gimmighoul": 10,
       "cobblemon:ekans": 1,
       "cobblemon:komala": 1,
       "cobblemon:starly": 1,

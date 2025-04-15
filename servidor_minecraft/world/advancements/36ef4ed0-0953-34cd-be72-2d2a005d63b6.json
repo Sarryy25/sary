@@ -715,12 +715,17 @@
       "azure_ball": "2025-04-13 22:24:58 +0000",
       "net_ball": "2025-04-15 23:00:04 +0000",
       "dive_ball": "2025-04-15 22:55:50 +0000",
+      "sport_ball": "2025-04-15 23:33:35 +0000",
+      "safari_ball": "2025-04-15 23:33:36 +0000",
       "verdant_ball": "2025-04-13 22:25:06 +0000",
       "ultra_ball": "2025-04-13 22:33:16 +0000",
+      "fast_ball": "2025-04-15 23:25:43 +0000",
       "heal_ball": "2025-04-15 22:11:09 +0000",
+      "beast_ball": "2025-04-15 23:25:40 +0000",
       "poke_ball": "2025-04-15 22:15:12 +0000",
       "citrine_ball": "2025-04-13 21:21:41 +0000",
       "roseate_ball": "2025-04-13 21:21:32 +0000",
+      "lure_ball": "2025-04-15 23:33:35 +0000",
       "premier_ball": "2025-04-13 22:12:57 +0000"
     },
     "done": false
@@ -759,6 +764,7 @@
       "minecraft:lukewarm_ocean": "2025-04-14 21:36:01 +0000",
       "minecraft:snowy_plains": "2025-04-14 01:37:51 +0000",
       "minecraft:snowy_taiga": "2025-04-15 20:36:52 +0000",
+      "minecraft:dripstone_caves": "2025-04-15 23:13:29 +0000",
       "minecraft:grove": "2025-04-14 02:23:16 +0000",
       "minecraft:swamp": "2025-04-15 20:35:09 +0000",
       "minecraft:cold_ocean": "2025-04-14 00:49:34 +0000",
@@ -775,6 +781,7 @@
       "minecraft:warm_ocean": "2025-04-15 22:35:41 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-14 21:36:16 +0000",
       "minecraft:flower_forest": "2025-04-13 21:26:23 +0000",
+      "minecraft:frozen_peaks": "2025-04-15 23:21:40 +0000",
       "minecraft:old_growth_birch_forest": "2025-04-14 00:31:21 +0000",
       "minecraft:deep_dark": "2025-04-14 02:14:34 +0000",
       "minecraft:savanna": "2025-04-15 22:57:46 +0000",
@@ -3125,6 +3132,13 @@
     },
     "done": true
   },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "lure_ball": "2025-04-15 23:33:35 +0000",
+      "fast_ball": "2025-04-15 23:25:43 +0000"
+    },
+    "done": false
+  },
   "minecraft:recipes/building_blocks/light_blue_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-15 22:15:01 +0000"
@@ -3170,6 +3184,12 @@
   "minecraft:recipes/building_blocks/orange_terracotta": {
     "criteria": {
       "has_terracotta": "2025-04-15 22:15:01 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/choice_scarf": {
+    "criteria": {
+      "has_scarf": "2025-04-15 23:33:34 +0000"
     },
     "done": true
   },
