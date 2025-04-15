@@ -1393,33 +1393,51 @@
     },
     "done": true
   },
-  "cobblemon:obtain_revival_herb": {
-    "criteria": {
-      "check_inv": "2025-04-14 22:46:35 +0000"
-    },
-    "done": true
-  },
   "cobblemon:recipes/misc/relic_coin_pouch": {
     "criteria": {
       "has_coin": "2025-04-14 22:46:31 +0000"
     },
     "done": true
   },
-  "cobblemon:recipes/held/icy_rock": {
+  "cobblemon:obtain_revival_herb": {
     "criteria": {
-      "has_stone": "2025-04-14 23:00:41 +0000"
-    },
-    "done": true
-  },
-  "minecraft:recipes/redstone/warped_fence_gate": {
-    "criteria": {
-      "has_planks": "2025-04-14 22:57:42 +0000"
+      "check_inv": "2025-04-14 22:46:35 +0000"
     },
     "done": true
   },
   "cobblemon:recipes/consumables/heal_powder": {
     "criteria": {
       "has_herb": "2025-04-14 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/revive": {
+    "criteria": {
+      "has_herb": "2025-04-14 22:46:35 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:use_candy": {
+    "criteria": {
+      "use_xs_candy": "2025-04-14 22:46:51 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/fine_remedy": {
+    "criteria": {
+      "has_remedy": "2025-04-14 22:47:33 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_remedy": {
+    "criteria": {
+      "check_inv": "2025-04-14 22:47:33 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/redstone/warped_fence_gate": {
+    "criteria": {
+      "has_planks": "2025-04-14 22:57:42 +0000"
     },
     "done": true
   },
@@ -1447,33 +1465,9 @@
     },
     "done": true
   },
-  "cobblemon:use_candy": {
-    "criteria": {
-      "use_xs_candy": "2025-04-14 22:46:51 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/redstone/warped_door": {
     "criteria": {
       "has_planks": "2025-04-14 22:57:42 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/fine_remedy": {
-    "criteria": {
-      "has_remedy": "2025-04-14 22:47:33 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/held/never_melt_ice_using_stone": {
-    "criteria": {
-      "has_ice": "2025-04-14 23:00:41 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/consumables/revive": {
-    "criteria": {
-      "has_herb": "2025-04-14 22:46:35 +0000"
     },
     "done": true
   },
@@ -1483,27 +1477,51 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/never_melt_ice": {
-    "criteria": {
-      "has_the_recipe": "2025-04-14 23:00:41 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/building_blocks/warped_slab": {
     "criteria": {
       "has_planks": "2025-04-14 22:57:42 +0000"
     },
     "done": true
   },
-  "cobblemon:craft_remedy": {
-    "criteria": {
-      "check_inv": "2025-04-14 22:47:33 +0000"
-    },
-    "done": true
-  },
   "minecraft:recipes/decorations/warped_fence": {
     "criteria": {
       "has_planks": "2025-04-14 22:57:42 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/icy_rock": {
+    "criteria": {
+      "has_stone": "2025-04-14 23:00:41 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice_using_stone": {
+    "criteria": {
+      "has_ice": "2025-04-14 23:00:41 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/never_melt_ice": {
+    "criteria": {
+      "has_the_recipe": "2025-04-14 23:00:41 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/iron_ball": {
+    "criteria": {
+      "has_iron": "2025-04-15 23:03:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_iron_block": {
+    "criteria": {
+      "has_iron_block": "2025-04-15 23:03:52 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/decorations/anvil": {
+    "criteria": {
+      "has_iron_block": "2025-04-15 23:03:52 +0000"
     },
     "done": true
   },

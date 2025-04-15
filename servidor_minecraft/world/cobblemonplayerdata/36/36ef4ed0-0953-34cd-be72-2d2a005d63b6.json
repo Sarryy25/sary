@@ -144,6 +144,13 @@
             "discoveredTimestamp": 1744756619925,
             "caughtTimestamp": 1744756619925
           }
+        },
+        "sneasel": {
+          "hisui": {
+            "isShiny": false,
+            "status": "SEEN",
+            "discoveredTimestamp": 1744758617703
+          }
         }
       },
       "name": "cobbledex_discovery"
@@ -159,9 +166,9 @@
     "totalCaptureCount": 14,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 145,
+    "totalBattleVictoryCount": 148,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 142,
+    "totalPvWBattleVictoryCount": 145,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 4,
@@ -220,7 +227,7 @@
       "cobblemon:growlithe": 2,
       "cobblemon:tandemaus": 1,
       "cobblemon:snorunt": 1,
-      "cobblemon:gimmighoul": 8,
+      "cobblemon:gimmighoul": 9,
       "cobblemon:ekans": 1,
       "cobblemon:komala": 1,
       "cobblemon:starly": 1,
@@ -228,7 +235,7 @@
       "cobblemon:buneary": 1,
       "cobblemon:squawkabilly": 2,
       "cobblemon:corvisquire": 1,
-      "cobblemon:graveler": 1,
+      "cobblemon:graveler": 2,
       "cobblemon:hoothoot": 1,
       "cobblemon:spinda": 1,
       "cobblemon:noctowl": 1,
@@ -250,7 +257,8 @@
       "cobblemon:tranquill": 1,
       "cobblemon:fearow": 1,
       "cobblemon:primeape": 1,
-      "cobblemon:xatu": 1
+      "cobblemon:xatu": 1,
+      "cobblemon:falinks": 1
     },
     "aspectsCollected": {}
   }

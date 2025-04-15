@@ -173,6 +173,13 @@
         "discoveredTimestamp": 1744755749306,
         "caughtTimestamp": 1744755749306
       }
+    },
+    "sneasel": {
+      "hisui": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1744758617704
+      }
     }
   }
 }
