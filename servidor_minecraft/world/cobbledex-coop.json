@@ -1,0 +1,42 @@
+{
+  "registers": {
+    "glaceon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1744748281050,
+        "caughtTimestamp": 1744748281050
+      }
+    },
+    "charizard": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1744748560891
+      }
+    },
+    "pupitar": {
+      "normal": {
+        "isShiny": false,
+        "status": "SEEN",
+        "discoveredTimestamp": 1744748751932
+      }
+    },
+    "herdier": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1744748801248,
+        "caughtTimestamp": 1744748815288
+      }
+    },
+    "miltank": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1744749108236,
+        "caughtTimestamp": 1744749108236
+      }
+    }
+  }
+}

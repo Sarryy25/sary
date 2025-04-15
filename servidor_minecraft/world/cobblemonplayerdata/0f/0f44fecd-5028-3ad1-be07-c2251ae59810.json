@@ -6,7 +6,33 @@
   "starterUUID": "447a380c-d0b0-461a-9826-536a9cb45a80",
   "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
-  "extraData": {},
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "klink": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744745677695,
+            "caughtTimestamp": 1744745677695
+          }
+        },
+        "quaxly": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744745677697,
+            "caughtTimestamp": 1744745677697
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
   "advancementData": {
     "totalCaptureCount": 1,
     "totalEggsHatched": 0,

@@ -6,14 +6,136 @@
   "starterUUID": "beadf101-8ddc-491a-b518-260326f697c2",
   "keyItems": [],
   "battleTheme": "cobblemon:battle.pvp.default",
-  "extraData": {},
+  "extraData": {
+    "cobbledex_discovery": {
+      "registers": {
+        "diglett": {
+          "alola": {
+            "isShiny": true,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744747856852,
+            "caughtTimestamp": 1744747856852
+          }
+        },
+        "zigzagoon": {
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744747856853,
+            "caughtTimestamp": 1744747856853
+          }
+        },
+        "machoke": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744747856853,
+            "caughtTimestamp": 1744747856853
+          }
+        },
+        "nidorina": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744747856853,
+            "caughtTimestamp": 1744747856853
+          }
+        },
+        "arcanine": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744747856853,
+            "caughtTimestamp": 1744747856853
+          }
+        },
+        "rhyhorn": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744747856853,
+            "caughtTimestamp": 1744747856853
+          }
+        },
+        "fletchling": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744747856853,
+            "caughtTimestamp": 1744747856853
+          }
+        },
+        "charizard": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744747856853,
+            "caughtTimestamp": 1744747856853
+          }
+        },
+        "luxray": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744747856853,
+            "caughtTimestamp": 1744747856853
+          }
+        },
+        "dreepy": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744747856853,
+            "caughtTimestamp": 1744747856853
+          }
+        },
+        "pupitar": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744747856853,
+            "caughtTimestamp": 1744747856853
+          }
+        },
+        "gengar": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744747856853,
+            "caughtTimestamp": 1744747856853
+          }
+        },
+        "lapras": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744747856853,
+            "caughtTimestamp": 1744747856853
+          }
+        },
+        "glaceon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744748281049,
+            "caughtTimestamp": 1744748281049
+          }
+        }
+      },
+      "name": "cobbledex_discovery"
+    },
+    "Cobbledex_RewardHistory": {
+      "received": [],
+      "name": "Cobbledex_RewardHistory"
+    }
+  },
   "advancementData": {
-    "totalCaptureCount": 12,
+    "totalCaptureCount": 13,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 9,
-    "totalBattleVictoryCount": 102,
+    "totalBattleVictoryCount": 119,
     "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 100,
+    "totalPvWBattleVictoryCount": 117,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 4,
@@ -30,30 +152,31 @@
       "rock": 2,
       "electric": 1,
       "psychic": 1,
-      "flying": 2
+      "flying": 2,
+      "ice": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:caterpie": 2,
       "cobblemon:taillow": 4,
       "cobblemon:rookidee": 1,
       "cobblemon:zigzagoon": 2,
-      "cobblemon:sentret": 5,
+      "cobblemon:sentret": 6,
       "cobblemon:patrat": 1,
       "cobblemon:rattata": 3,
       "cobblemon:wingull": 2,
-      "cobblemon:wooloo": 2,
-      "cobblemon:krabby": 1,
+      "cobblemon:wooloo": 3,
+      "cobblemon:krabby": 2,
       "cobblemon:yamper": 2,
       "cobblemon:watchog": 1,
       "cobblemon:voltorb": 2,
       "cobblemon:meowth": 6,
-      "cobblemon:pidove": 2,
+      "cobblemon:pidove": 3,
       "cobblemon:bunnelby": 2,
-      "cobblemon:koffing": 5,
-      "cobblemon:bouffalant": 2,
+      "cobblemon:koffing": 7,
+      "cobblemon:bouffalant": 3,
       "cobblemon:crabrawler": 2,
       "cobblemon:ponyta": 2,
-      "cobblemon:fidough": 1,
+      "cobblemon:fidough": 2,
       "cobblemon:mudbray": 1,
       "cobblemon:magikarp": 1,
       "cobblemon:woobat": 2,
@@ -62,22 +185,22 @@
       "cobblemon:weedle": 1,
       "cobblemon:deerling": 1,
       "cobblemon:igglybuff": 1,
-      "cobblemon:maschiff": 1,
+      "cobblemon:maschiff": 2,
       "cobblemon:weezing": 1,
       "cobblemon:oinkologne": 1,
       "cobblemon:furret": 1,
-      "cobblemon:snubbull": 1,
+      "cobblemon:snubbull": 2,
       "cobblemon:lechonk": 2,
-      "cobblemon:growlithe": 1,
+      "cobblemon:growlithe": 2,
       "cobblemon:tandemaus": 1,
       "cobblemon:snorunt": 1,
-      "cobblemon:gimmighoul": 4,
+      "cobblemon:gimmighoul": 5,
       "cobblemon:ekans": 1,
       "cobblemon:komala": 1,
       "cobblemon:starly": 1,
       "cobblemon:honedge": 1,
       "cobblemon:buneary": 1,
-      "cobblemon:squawkabilly": 1,
+      "cobblemon:squawkabilly": 2,
       "cobblemon:corvisquire": 1,
       "cobblemon:graveler": 1,
       "cobblemon:hoothoot": 1,
@@ -86,7 +209,10 @@
       "cobblemon:geodude": 1,
       "cobblemon:diggersby": 1,
       "cobblemon:durant": 1,
-      "cobblemon:eldegoss": 1
+      "cobblemon:eldegoss": 1,
+      "cobblemon:maushold": 1,
+      "cobblemon:lillipup": 1,
+      "cobblemon:nuzleaf": 1
     },
     "aspectsCollected": {}
   }
