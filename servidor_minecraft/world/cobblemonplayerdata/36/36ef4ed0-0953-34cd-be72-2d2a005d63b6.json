@@ -120,22 +120,48 @@
             "discoveredTimestamp": 1744748281049,
             "caughtTimestamp": 1744748281049
           }
+        },
+        "salandit": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744754501589,
+            "caughtTimestamp": 1744754501589
+          }
+        },
+        "tyranitar": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744755749306,
+            "caughtTimestamp": 1744755749306
+          }
+        },
+        "drakloak": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744756619925,
+            "caughtTimestamp": 1744756619925
+          }
         }
       },
       "name": "cobbledex_discovery"
     },
     "Cobbledex_RewardHistory": {
-      "received": [],
+      "received": [
+        "15"
+      ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 13,
+    "totalCaptureCount": 14,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 9,
-    "totalBattleVictoryCount": 119,
-    "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 117,
+    "totalEvolvedCount": 11,
+    "totalBattleVictoryCount": 144,
+    "totalPvPBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 141,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 4,
@@ -144,8 +170,8 @@
       "normal": 2,
       "ground": 3,
       "steel": 1,
-      "fire": 1,
-      "poison": 2,
+      "fire": 2,
+      "poison": 3,
       "dragon": 1,
       "ghost": 1,
       "fighting": 1,
@@ -167,13 +193,13 @@
       "cobblemon:wooloo": 3,
       "cobblemon:krabby": 2,
       "cobblemon:yamper": 2,
-      "cobblemon:watchog": 1,
+      "cobblemon:watchog": 2,
       "cobblemon:voltorb": 2,
       "cobblemon:meowth": 6,
       "cobblemon:pidove": 3,
       "cobblemon:bunnelby": 2,
       "cobblemon:koffing": 7,
-      "cobblemon:bouffalant": 3,
+      "cobblemon:bouffalant": 7,
       "cobblemon:crabrawler": 2,
       "cobblemon:ponyta": 2,
       "cobblemon:fidough": 2,
@@ -194,7 +220,7 @@
       "cobblemon:growlithe": 2,
       "cobblemon:tandemaus": 1,
       "cobblemon:snorunt": 1,
-      "cobblemon:gimmighoul": 5,
+      "cobblemon:gimmighoul": 8,
       "cobblemon:ekans": 1,
       "cobblemon:komala": 1,
       "cobblemon:starly": 1,
@@ -207,12 +233,24 @@
       "cobblemon:spinda": 1,
       "cobblemon:noctowl": 1,
       "cobblemon:geodude": 1,
-      "cobblemon:diggersby": 1,
+      "cobblemon:diggersby": 2,
       "cobblemon:durant": 1,
       "cobblemon:eldegoss": 1,
       "cobblemon:maushold": 1,
       "cobblemon:lillipup": 1,
-      "cobblemon:nuzleaf": 1
+      "cobblemon:nuzleaf": 3,
+      "cobblemon:vivillon": 1,
+      "cobblemon:eevee": 1,
+      "cobblemon:tauros": 1,
+      "cobblemon:heracross": 1,
+      "cobblemon:cacturne": 1,
+      "cobblemon:dwebble": 1,
+      "cobblemon:cacnea": 1,
+      "cobblemon:maractus": 1,
+      "cobblemon:tranquill": 1,
+      "cobblemon:fearow": 1,
+      "cobblemon:primeape": 1,
+      "cobblemon:xatu": 1
     },
     "aspectsCollected": {}
   }

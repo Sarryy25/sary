@@ -215,31 +215,152 @@
             "discoveredTimestamp": 1744749108236,
             "caughtTimestamp": 1744749108236
           }
+        },
+        "tauros": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744750581090,
+            "caughtTimestamp": 1744750581090
+          }
+        },
+        "furret": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744750647645,
+            "caughtTimestamp": 1744750647645
+          }
+        },
+        "cryogonal": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744750705292,
+            "caughtTimestamp": 1744750705292
+          }
+        },
+        "cetoddle": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744750871194,
+            "caughtTimestamp": 1744750871194
+          }
+        },
+        "combee": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744750966588,
+            "caughtTimestamp": 1744750966588
+          }
+        },
+        "ninjask": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744751071139,
+            "caughtTimestamp": 1744751071139
+          }
+        },
+        "lopunny": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744751141139,
+            "caughtTimestamp": 1744751141139
+          }
+        },
+        "caterpie": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744751169589,
+            "caughtTimestamp": 1744751169589
+          }
+        },
+        "starly": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744751954400,
+            "caughtTimestamp": 1744751954400
+          }
+        },
+        "linoone": {
+          "galar": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744754284049,
+            "caughtTimestamp": 1744754284049
+          }
+        },
+        "drakloak": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744754716309,
+            "caughtTimestamp": 1744754716309
+          }
+        },
+        "dragapult": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744754719438,
+            "caughtTimestamp": 1744754719438
+          }
+        },
+        "tinkatuff": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744754899988,
+            "caughtTimestamp": 1744754899988
+          }
+        },
+        "tinkaton": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744754907037,
+            "caughtTimestamp": 1744754907037
+          }
+        },
+        "obstagoon": {
+          "normal": {
+            "isShiny": false,
+            "status": "CAUGHT",
+            "discoveredTimestamp": 1744755410492,
+            "caughtTimestamp": 1744755410492
+          }
         }
       },
       "name": "cobbledex_discovery"
     },
     "Cobbledex_RewardHistory": {
       "received": [
-        "15"
+        "15",
+        "30"
       ],
       "name": "Cobbledex_RewardHistory"
     }
   },
   "advancementData": {
-    "totalCaptureCount": 24,
+    "totalCaptureCount": 34,
     "totalEggsHatched": 0,
-    "totalEvolvedCount": 4,
-    "totalBattleVictoryCount": 86,
-    "totalPvPBattleVictoryCount": 2,
-    "totalPvWBattleVictoryCount": 84,
+    "totalEvolvedCount": 9,
+    "totalBattleVictoryCount": 105,
+    "totalPvPBattleVictoryCount": 3,
+    "totalPvWBattleVictoryCount": 102,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 4,
     "totalTypeCaptureCounts": {
       "water": 4,
-      "normal": 10,
-      "flying": 4,
+      "normal": 15,
+      "flying": 7,
       "fairy": 2,
       "fighting": 1,
       "psychic": 1,
@@ -249,7 +370,9 @@
       "steel": 3,
       "poison": 1,
       "electric": 1,
-      "ice": 1
+      "ice": 3,
+      "bug": 3,
+      "dark": 1
     },
     "totalDefeatedCounts": {
       "cobblemon:combee": 10,
@@ -258,10 +381,10 @@
       "cobblemon:kakuna": 1,
       "cobblemon:taillow": 4,
       "cobblemon:yamper": 1,
-      "cobblemon:zigzagoon": 5,
-      "cobblemon:bunnelby": 2,
+      "cobblemon:zigzagoon": 6,
+      "cobblemon:bunnelby": 3,
       "cobblemon:seedot": 3,
-      "cobblemon:sentret": 3,
+      "cobblemon:sentret": 4,
       "cobblemon:pineco": 2,
       "cobblemon:natu": 1,
       "cobblemon:maschiff": 1,
@@ -281,7 +404,10 @@
       "cobblemon:murkrow": 1,
       "cobblemon:rowlet": 1,
       "cobblemon:butterfree": 1,
-      "cobblemon:stantler": 1
+      "cobblemon:stantler": 1,
+      "cobblemon:snorunt": 3,
+      "cobblemon:makuhita": 1,
+      "cobblemon:buneary": 1
     },
     "aspectsCollected": {}
   }

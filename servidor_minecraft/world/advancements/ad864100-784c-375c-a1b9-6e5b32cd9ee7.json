@@ -396,7 +396,8 @@
       "cooked_mutton": "2025-04-13 21:33:32 +0000",
       "sweet_berries": "2025-04-13 21:27:38 +0000",
       "cooked_beef": "2025-04-14 22:06:28 +0000",
-      "bread": "2025-04-13 23:10:41 +0000"
+      "bread": "2025-04-13 23:10:41 +0000",
+      "dried_kelp": "2025-04-15 21:35:50 +0000"
     },
     "done": false
   },
@@ -462,10 +463,11 @@
   },
   "cobblemon:recipes/balls/dream_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-15 21:03:49 +0000",
       "has_red_apricorn": "2025-04-13 21:28:03 +0000",
       "has_pink_apricorn": "2025-04-15 20:40:09 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/repeat_ball": {
     "criteria": {
@@ -520,9 +522,10 @@
   },
   "cobblemon:recipes/balls/great_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-15 21:03:49 +0000",
       "has_red_apricorn": "2025-04-13 21:28:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/park_ball": {
     "criteria": {
@@ -556,10 +559,11 @@
   },
   "cobblemon:recipes/balls/lure_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-15 21:03:49 +0000",
       "has_green_apricorn": "2025-04-13 21:38:11 +0000",
       "has_red_apricorn": "2025-04-13 21:28:03 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/poke_ball": {
     "criteria": {
@@ -569,24 +573,32 @@
   },
   "minecraft:adventure/adventuring_time": {
     "criteria": {
+      "minecraft:old_growth_pine_taiga": "2025-04-15 21:58:35 +0000",
       "minecraft:mushroom_fields": "2025-04-14 22:33:33 +0000",
+      "minecraft:taiga": "2025-04-15 21:43:10 +0000",
       "minecraft:deep_ocean": "2025-04-14 21:40:02 +0000",
       "minecraft:frozen_river": "2025-04-14 01:37:58 +0000",
       "minecraft:cherry_grove": "2025-04-13 23:50:38 +0000",
       "minecraft:sunflower_plains": "2025-04-14 21:32:25 +0000",
+      "minecraft:birch_forest": "2025-04-15 21:07:21 +0000",
       "minecraft:beach": "2025-04-13 21:28:54 +0000",
+      "minecraft:dark_forest": "2025-04-15 21:14:18 +0000",
       "minecraft:mangrove_swamp": "2025-04-14 00:02:56 +0000",
       "minecraft:sparse_jungle": "2025-04-14 00:02:34 +0000",
       "minecraft:river": "2025-04-13 22:05:07 +0000",
       "minecraft:lukewarm_ocean": "2025-04-14 21:43:05 +0000",
       "minecraft:snowy_plains": "2025-04-14 01:37:52 +0000",
+      "minecraft:swamp": "2025-04-15 21:19:56 +0000",
       "minecraft:cold_ocean": "2025-04-14 00:49:34 +0000",
       "minecraft:forest": "2025-04-13 22:03:38 +0000",
       "minecraft:deep_cold_ocean": "2025-04-14 00:49:45 +0000",
       "minecraft:ice_spikes": "2025-04-14 01:38:06 +0000",
       "minecraft:frozen_ocean": "2025-04-14 02:01:05 +0000",
+      "minecraft:desert": "2025-04-15 22:18:33 +0000",
+      "minecraft:windswept_forest": "2025-04-15 21:36:48 +0000",
       "minecraft:jungle": "2025-04-14 00:09:08 +0000",
       "minecraft:ocean": "2025-04-14 21:28:07 +0000",
+      "minecraft:old_growth_spruce_taiga": "2025-04-15 21:14:02 +0000",
       "minecraft:snowy_beach": "2025-04-14 01:39:51 +0000",
       "minecraft:windswept_savanna": "2025-04-14 22:01:05 +0000",
       "minecraft:deep_lukewarm_ocean": "2025-04-14 21:44:41 +0000",
@@ -598,6 +610,7 @@
   },
   "cobblemon:craft_base_balls": {
     "criteria": {
+      "premier_ball": "2025-04-15 21:08:54 +0000",
       "azure_ball": "2025-04-13 22:25:28 +0000",
       "citrine_ball": "2025-04-13 21:28:21 +0000"
     },
@@ -605,11 +618,18 @@
   },
   "cobblemon:craft_all_balls": {
     "criteria": {
+      "luxury_ball": "2025-04-15 21:09:17 +0000",
+      "nest_ball": "2025-04-15 21:16:59 +0000",
       "quick_ball": "2025-04-15 20:42:16 +0000",
+      "timer_ball": "2025-04-15 21:16:34 +0000",
       "ancient_poke_ball": "2025-04-15 20:13:06 +0000",
+      "moon_ball": "2025-04-15 21:16:56 +0000",
       "azure_ball": "2025-04-13 22:25:28 +0000",
+      "love_ball": "2025-04-15 21:16:55 +0000",
+      "dive_ball": "2025-04-15 21:09:27 +0000",
       "ultra_ball": "2025-04-13 22:33:01 +0000",
-      "citrine_ball": "2025-04-13 21:28:21 +0000"
+      "citrine_ball": "2025-04-13 21:28:21 +0000",
+      "premier_ball": "2025-04-15 21:08:54 +0000"
     },
     "done": false
   },
@@ -1045,11 +1065,12 @@
   },
   "cobblemon:recipes/balls/moon_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-15 21:03:49 +0000",
       "has_black_apricorn": "2025-04-13 22:32:11 +0000",
       "has_white_apricorn": "2025-04-13 22:57:16 +0000",
       "has_yellow_apricorn": "2025-04-13 21:37:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/ultra_ball": {
     "criteria": {
@@ -1087,9 +1108,10 @@
   },
   "cobblemon:recipes/balls/quick_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-15 21:03:49 +0000",
       "has_yellow_apricorn": "2025-04-13 21:37:45 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/dusk_ball": {
     "criteria": {
@@ -1828,9 +1850,10 @@
   },
   "cobblemon:recipes/balls/heavy_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-15 21:03:49 +0000",
       "has_black_apricorn": "2025-04-13 22:32:11 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/slate_ball": {
     "criteria": {
@@ -1840,10 +1863,11 @@
   },
   "cobblemon:recipes/balls/net_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-15 21:03:49 +0000",
       "has_black_apricorn": "2025-04-13 22:32:11 +0000",
       "has_white_apricorn": "2025-04-13 22:57:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "minecraft:adventure/lightning_rod_with_villager_no_fire": {
     "criteria": {
@@ -1872,9 +1896,10 @@
   },
   "cobblemon:recipes/balls/dive_ball": {
     "criteria": {
+      "has_blue_apricorn": "2025-04-15 21:03:49 +0000",
       "has_white_apricorn": "2025-04-13 22:57:16 +0000"
     },
-    "done": false
+    "done": true
   },
   "cobblemon:recipes/balls/premier_ball": {
     "criteria": {
@@ -2471,6 +2496,30 @@
     },
     "done": false
   },
+  "cobblemon:recipes/balls/roseate_ball": {
+    "criteria": {
+      "has_pink_apricorn": "2025-04-15 20:40:09 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+    "criteria": {
+      "has_apricorn": "2025-04-15 20:40:09 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/soothe_bell": {
+    "criteria": {
+      "has_nugget": "2025-04-15 20:41:54 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+    "criteria": {
+      "has_iron_nugget": "2025-04-15 20:41:54 +0000"
+    },
+    "done": true
+  },
   "minecraft:recipes/misc/gold_ingot_from_nuggets": {
     "criteria": {
       "has_gold_nugget": "2025-04-15 20:41:56 +0000"
@@ -2489,18 +2538,6 @@
     },
     "done": true
   },
-  "cobblemon:recipes/held/soothe_bell": {
-    "criteria": {
-      "has_nugget": "2025-04-15 20:41:54 +0000"
-    },
-    "done": true
-  },
-  "cobblemon:recipes/balls/roseate_ball": {
-    "criteria": {
-      "has_pink_apricorn": "2025-04-15 20:40:09 +0000"
-    },
-    "done": true
-  },
   "cobblemon:recipes/held/never_melt_ice_using_stone": {
     "criteria": {
       "has_ice": "2025-04-15 20:44:42 +0000"
@@ -2513,15 +2550,101 @@
     },
     "done": true
   },
-  "cobblemon:recipes/agriculture/pink_apricorn_smelt_to_dye": {
+  "cobblemon:recipes/agriculture/blue_apricorn_smelt_to_dye": {
     "criteria": {
-      "has_apricorn": "2025-04-15 20:40:09 +0000"
+      "has_apricorn": "2025-04-15 21:03:49 +0000"
     },
     "done": true
   },
-  "minecraft:recipes/misc/iron_ingot_from_nuggets": {
+  "cobblemon:recipes/balls/azure_ball": {
     "criteria": {
-      "has_iron_nugget": "2025-04-15 20:41:54 +0000"
+      "has_blue_apricorn": "2025-04-15 21:03:49 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/consumables/max_revive": {
+    "criteria": {
+      "has_revive": "2025-04-15 21:09:38 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:brew_all": {
+    "criteria": {
+      "obtain_burn_heal": "2025-04-15 21:12:15 +0000",
+      "obtain_potion": "2025-04-15 21:18:34 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:recipes/held/choice_scarf": {
+    "criteria": {
+      "has_scarf": "2025-04-15 21:16:39 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/choice_specs": {
+    "criteria": {
+      "has_glasses": "2025-04-15 21:16:52 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:craft_apricorn_balls": {
+    "criteria": {
+      "moon_ball": "2025-04-15 21:16:56 +0000",
+      "love_ball": "2025-04-15 21:16:55 +0000"
+    },
+    "done": false
+  },
+  "cobblemon:brew_potion": {
+    "criteria": {
+      "check_inv": "2025-04-15 21:18:34 +0000"
+    },
+    "done": true
+  },
+  "cobblemon:recipes/held/black_belt": {
+    "criteria": {
+      "has_kelp": "2025-04-15 21:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/dried_kelp_block": {
+    "criteria": {
+      "has_dried_kelp": "2025-04-15 21:35:47 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/misc/pink_dye_from_pink_petals": {
+    "criteria": {
+      "has_pink_petals": "2025-04-15 22:01:39 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-15 22:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_slab": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-15 22:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs_from_smooth_quartz_stonecutting": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-15 22:14:16 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/transportation/carrot_on_a_stick": {
+    "criteria": {
+      "has_carrot": "2025-04-15 22:09:12 +0000"
+    },
+    "done": true
+  },
+  "minecraft:recipes/building_blocks/smooth_quartz_stairs": {
+    "criteria": {
+      "has_smooth_quartz": "2025-04-15 22:14:16 +0000"
     },
     "done": true
   },
