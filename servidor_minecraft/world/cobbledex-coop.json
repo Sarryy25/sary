@@ -332,6 +332,86 @@
         "discoveredTimestamp": 1744760971579,
         "caughtTimestamp": 1744760971579
       }
+    },
+    "carvanha": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1744761998321,
+        "caughtTimestamp": 1744761998321
+      }
+    },
+    "magikarp": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1744762044572,
+        "caughtTimestamp": 1744762044572
+      }
+    },
+    "horsea": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1744762134473,
+        "caughtTimestamp": 1744762134473
+      }
+    },
+    "barraskewda": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1744762245422,
+        "caughtTimestamp": 1744762245422
+      }
+    },
+    "lilligant": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1744762473911,
+        "caughtTimestamp": 1744762473911
+      }
+    },
+    "varoom": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1744763439630,
+        "caughtTimestamp": 1744763439630
+      }
+    },
+    "bounsweet": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1744763496129,
+        "caughtTimestamp": 1744763496129
+      }
+    },
+    "roselia": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1744763783234,
+        "caughtTimestamp": 1744763783234
+      }
+    },
+    "shroomish": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1744763918826,
+        "caughtTimestamp": 1744763918826
+      }
+    },
+    "lairon": {
+      "normal": {
+        "isShiny": false,
+        "status": "CAUGHT",
+        "discoveredTimestamp": 1744764883025,
+        "caughtTimestamp": 1744764883025
+      }
     }
   }
 }
