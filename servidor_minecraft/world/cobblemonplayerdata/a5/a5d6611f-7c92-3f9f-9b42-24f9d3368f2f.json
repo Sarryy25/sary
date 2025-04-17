@@ -336,9 +336,9 @@
     "totalCaptureCount": 28,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 15,
-    "totalBattleVictoryCount": 127,
+    "totalBattleVictoryCount": 128,
     "totalPvPBattleVictoryCount": 0,
-    "totalPvWBattleVictoryCount": 127,
+    "totalPvWBattleVictoryCount": 128,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 0,
     "totalTradedCount": 0,
@@ -418,7 +418,8 @@
       "cobblemon:zubat": 1,
       "cobblemon:zigzagoon": 1,
       "cobblemon:mankey": 1,
-      "cobblemon:pachirisu": 1
+      "cobblemon:pachirisu": 1,
+      "cobblemon:hoothoot": 1
     },
     "aspectsCollected": {}
   }

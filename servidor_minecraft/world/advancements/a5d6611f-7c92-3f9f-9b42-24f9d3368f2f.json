@@ -1716,6 +1716,12 @@
     },
     "done": true
   },
+  "minecraft:recipes/misc/leather": {
+    "criteria": {
+      "has_rabbit_hide": "2025-04-16 00:52:27 +0000"
+    },
+    "done": true
+  },
   "cobblemon:recipes/held/iron_ball": {
     "criteria": {
       "has_iron": "2025-04-15 23:03:52 +0000"

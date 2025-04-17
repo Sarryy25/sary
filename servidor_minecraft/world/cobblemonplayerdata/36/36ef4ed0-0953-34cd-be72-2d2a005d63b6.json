@@ -174,9 +174,9 @@
     "totalCaptureCount": 15,
     "totalEggsHatched": 0,
     "totalEvolvedCount": 11,
-    "totalBattleVictoryCount": 150,
+    "totalBattleVictoryCount": 154,
     "totalPvPBattleVictoryCount": 3,
-    "totalPvWBattleVictoryCount": 147,
+    "totalPvWBattleVictoryCount": 151,
     "totalPvNBattleVictoryCount": 0,
     "totalShinyCaptureCount": 1,
     "totalTradedCount": 4,
@@ -208,7 +208,7 @@
       "cobblemon:wooloo": 3,
       "cobblemon:krabby": 2,
       "cobblemon:yamper": 2,
-      "cobblemon:watchog": 2,
+      "cobblemon:watchog": 3,
       "cobblemon:voltorb": 2,
       "cobblemon:meowth": 6,
       "cobblemon:pidove": 3,
@@ -245,7 +245,7 @@
       "cobblemon:corvisquire": 1,
       "cobblemon:graveler": 2,
       "cobblemon:hoothoot": 1,
-      "cobblemon:spinda": 1,
+      "cobblemon:spinda": 2,
       "cobblemon:noctowl": 1,
       "cobblemon:geodude": 1,
       "cobblemon:diggersby": 2,
@@ -266,7 +266,9 @@
       "cobblemon:fearow": 1,
       "cobblemon:primeape": 1,
       "cobblemon:xatu": 1,
-      "cobblemon:falinks": 1
+      "cobblemon:falinks": 1,
+      "cobblemon:electrode": 1,
+      "cobblemon:exeggcute": 1
     },
     "aspectsCollected": {}
   }
